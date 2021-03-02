@@ -33,5 +33,5 @@ permalink: /about/
 - есть [Youtube](https://www.youtube.com/c/MaximTatarinov) для стримов с друзьями 
 - [Github](https://github.com/tatarinovms)
 - как и у всех есть [vk](https://vk.com/tatarinovms) но там я редкий гость
-- если вы HR, вам в (https://www.linkedin.com/in/tatarinovms/ linkedin]
+- если вы HR, вам в [linkedin](https://www.linkedin.com/in/tatarinovms/)
 
