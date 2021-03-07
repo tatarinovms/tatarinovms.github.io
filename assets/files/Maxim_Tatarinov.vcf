@@ -5,8 +5,11 @@ N:Tatarinov;Maxim;S.;;
 FN:Maxim S. Tatarinov
 EMAIL;type=INTERNET;type=HOME:tatarinovm.s@gmail.com
 TEL;type=IPHONE;type=CELL;type=VOICE:+7 (904) 804-11-21
-item1.ADR;type=pref:;;68\, Lenin Ave.\nOpen Space 2 Floor;Magnitogorsk;Chelyabinsk Region;455044;Russia
-item1.X-ABLabel:WORK\,PREF
+GENDER:M
+TZ:+05:00
+GEO:53.4066952,58.9883423
+CATEGORIES:INTERNET,INFORMATION TECHNOLOGY, BLOG
+ADR;TYPE=home;;;Magnitogorsk;;;Russia
 X-SOCIALPROFILE;type=twitter:http://twitter.com/tatarinovms
 X-SOCIALPROFILE;type=facebook:http://facebook.com/tatarinovm.s
 X-SOCIALPROFILE;type=linkedin:http://www.linkedin.com/in/tatarinovms
