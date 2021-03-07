@@ -38,12 +38,12 @@ P.S Если делаете файл аватарки в Base64, то конве
 - Для ссылки на vCard
 - Сканируем метку
 
-- ![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/vcard/vcard_link.png)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/vcard/vcard_link.png)
 
 ![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/vcard/vcard_link_1.png)
 
 - Для ссылки на About
-
+- Сканируем метку
 ![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/vcard/about_link.png)
 
 ![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/vcard/about_link_1.png)
