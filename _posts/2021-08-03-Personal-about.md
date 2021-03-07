@@ -25,19 +25,22 @@ P.S Если делаете файл аватарки в Base64, то конве
 
 ![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/vcard/write_about.png)
 
-- Для метки сразу на vCard:
+- Для метки c ссылкой на vCard:
 
 ![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/vcard/write_vcard.png)
 
 - Проверяем работу:
-
+- Для ссылки на vCard
 ![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/vcard/vcard_link.png)
 
 ![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/vcard/vcard_link_1.png)
 
+- Для ссылки на About
+
 ![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/vcard/about_link.png)
 
 ![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/vcard/about_link_1.png)
+
 
 - Приклеиваем метки на чехол/телефон
 - PROFFIT!
