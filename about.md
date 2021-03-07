@@ -3,11 +3,10 @@ layout: page
 title: About
 permalink: /about/
 ---
-### Contact me 
+### Привет, я Максим.
 
 <img src="{{ site.baseurl }}/images/tatarinovms.JPG" style="height: 350px;"/>
-
-Привет, я Максим. 
+ 
 
 💻 Разбираюсь в *nix, веб-сервисах, сетях. Могу внедрить "не внедряемое" и настроить "настраиваемое". 
 
@@ -17,6 +16,8 @@ permalink: /about/
 
 👂 Слушаю много подкастов
 
+Скачать мой контакт [vCard](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/assets/files/Maxim_Tatarinov.vcf)
+
 ### Самые оперативные способы связи со мной:
 
 - **Telegram:** [@tatarinovms](https://t.me/tatarinovms)
@@ -24,8 +25,6 @@ permalink: /about/
 - **Почта:** [tatarinovm.s@gmail.com](mailto:tatarinovm.s@gmail.com)
 
 - **Twitter:** [@tatarinovms](https://twitter.com/tatarinovms)
-
--  Скачать мой контакт [vCard](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/assets/files/Maxim_Tatarinov.vcf)
 
 ### Прочие места где мне можно написать или меня найти:
 
