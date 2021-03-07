@@ -20,7 +20,9 @@ P.S Конечно в NFC метку можно записать и контак
 
 P.S Если делаете файл аватарки в Base64, то конвертируем нашу аватарку в можно на сайте [base64-image.de](https://www.base64-image.de)
 - Сохраняем наш файл как name.vcf и размещаем его и добавляем ссылку на вашу about страницу
-- Записываем на метку (для iPhone использую утилиту [NFC Tools](https://apps.apple.com/us/app/nfc-tools/id1252962749)
+### Записываем данные на метки 
+
+Для iPhone использую утилиту [NFC Tools](https://apps.apple.com/us/app/nfc-tools/id1252962749)
 - Для метки на нашу about страничку:
 
 ![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/vcard/write_about.png)
@@ -29,7 +31,7 @@ P.S Если делаете файл аватарки в Base64, то конве
 
 ![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/vcard/write_vcard.png)
 
-- Проверяем работу:
+### Проверяем работу
 - Для ссылки на vCard
 ![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/vcard/vcard_link.png)
 
@@ -42,5 +44,5 @@ P.S Если делаете файл аватарки в Base64, то конве
 ![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/vcard/about_link_1.png)
 
 
-- Приклеиваем метки на чехол/телефон
+- Приклеиваем метки на чехол/телефон/визитку
 - PROFFIT!
