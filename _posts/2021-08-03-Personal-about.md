@@ -35,9 +35,9 @@ P.S Если делаете файл аватарки в Base64, то конве
 
 ![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/vcard/vcard_link_1.png)
 
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/vcard/vcard_link.png)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/vcard/about_link.png)
 
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/vcard/vcard_link_1.png)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/vcard/about_link_1.png)
 
 - Приклеиваем метки на чехол/телефон
 - PROFFIT!
