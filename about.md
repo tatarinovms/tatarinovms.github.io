@@ -5,7 +5,7 @@ permalink: /about/
 ---
 ### Привет, я Максим.
 
-<img src="{{ site.baseurl }}/images/tatarinovms.JPG" style="height: 350px,align="center;"/>
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/tatarinovms.JPG)
  
 
 💻 Разбираюсь в *nix, веб-сервисах, сетях. Могу внедрить "не внедряемое" и настроить "настраиваемое". 
@@ -16,7 +16,7 @@ permalink: /about/
 
 👂 Слушаю много подкастов
 
-Скачать мой контакт [vCard](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/assets/files/Maxim_Tatarinov.vcf)
+Скачать мою карточку [vCard](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/assets/files/Maxim_Tatarinov.vcf)
 
 ### Самые оперативные способы связи со мной:
 
