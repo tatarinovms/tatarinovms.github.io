@@ -39,10 +39,9 @@ permalink: /about/
 - слушаю музыку в [Spotify](https://open.spotify.com/user/tatarinovms?si=fQqV0-9QQ_OgO6IzsoryOA) 
 - веду [Telegram канал](https://t.me/beaverclan) 
 - фоткаю в [Instagram ](https://www.instagram.com/tatarinovms/)
-- чирикаю  [в тви](https://twitter.com/tatarinovms)
 - играю в [PlayStation](https://my.playstation.com/profile/tatarinovms)
 - читаю брюзжание и логинюсь в приложениях через [Facebook](https://www.facebook.com/tatarinovm.s)
-- есть [Youtube](https://www.youtube.com/c/MaximTatarinov) для стримов с друзьями 
+- есть [Youtube](https://www.youtube.com/c/MaximTatarinov) для стримов с друзьями и видео
 - [Github](https://github.com/tatarinovms)
 - как и у всех есть [vk](https://vk.com/tatarinovms) но там я редкий гость
 - если вы HR, вам в [linkedin](https://www.linkedin.com/in/tatarinovms/)
