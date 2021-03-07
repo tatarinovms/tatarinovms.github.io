@@ -36,8 +36,9 @@ P.S Если делаете файл аватарки в Base64, то конве
 ### Проверяем работу
 
 - Для ссылки на vCard
+- Сканируем метку
 
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/vcard/vcard_link.png)
+- ![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/vcard/vcard_link.png)
 
 ![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/vcard/vcard_link_1.png)
 
