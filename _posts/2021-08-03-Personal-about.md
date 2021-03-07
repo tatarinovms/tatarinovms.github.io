@@ -16,12 +16,10 @@ P.S Конечно в NFC метку можно записать и контак
 
 ![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/vcard/vlenta.png)
 
-- Создаем vCard для удобства добавления вас в справочник. Можно воспользоваться экспортом из приложения Contacts на MacOS или сделать vCard на [сайте](https://vcardmaker.com), сделать экспорт из GMail, способов много, но это слишком простой вариант, мы пойдём другим путем. Возьмем стандарт [vCard](https://tools.ietf.org/pdf/rfc6350.pdf) и заполним все поля сами! Интересно же.
-- Конвертируем нашу аватарку в base64, чтобы сразу ее положить в VCF файл. Можно конечно грузить по адресу, но так надежнее. Конвертировать можно на сайте [base64-image.de](https://www.base64-image.de)
-- Открываем ваш любимый текстовый редактор и заполняем поля:
+- Создаем vCard для удобства добавления вас в справочник. Можно воспользоваться экспортом из приложения Contacts на MacOS или сделать vCard на [сайте](https://vcardmaker.com), сделать экспорт из GMail, способов много, даже взять стандарт [vCard](https://tools.ietf.org/pdf/rfc6350.pdf) и заполним все поля вручную.
 
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/vcard/vcard_code.png)
-
+P.S Если делаете файл аватарки в Base64, то конвертируем нашу аватарку в можно на сайте [base64-image.de](https://www.base64-image.de)
 - Сохраняем наш файл как name.vcf и размещаем его и добавляем ссылку на вашу about страницу
 - Записываем на метку 
-- Приклеиваем метку на чехол 
+- Проверяем работу:
+- Приклеиваем метки на чехол/телефон
