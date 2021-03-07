@@ -14,7 +14,7 @@ X-SOCIALPROFILE;type=facebook:http://facebook.com/tatarinovm.s
 X-SOCIALPROFILE;type=linkedin:http://www.linkedin.com/in/tatarinovms
 item1.URL;type=pref:https://blog.tatarinovms.ru
 item1.X-ABLabel:Blog
-item2.URL:https//t.me/tatarinovms
+item2.URL:t.me/tatarinovms
 item2.X-ABLabel:Telegram
 item3.URL;type=pref:https://open.spotify.com/user/tatarinovms?si=fQqV0-9QQ_OgO6IzsoryOA
 item3.X-ABLabel:Spotify
