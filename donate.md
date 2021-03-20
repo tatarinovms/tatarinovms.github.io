@@ -15,6 +15,8 @@ permalink: /donation/
 [Ютуб](https://www.youtube.com/channel/UCBRwhdCwQRdgYz2zXadNXEg)
 
 ### Как сделать Donation?
+[Capusta.Space](https://capu.st/beaverclan)
+
 [Donationalerts](http://www.donationalerts.ru/r/tatarinovms)
 
 [Запрос Денег](https://www.tinkoff.ru/sl/Al0obkKT7Rk)
