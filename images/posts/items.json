@@ -71,12 +71,12 @@
   {
     "type": "staticButton",
     "width": 30,
-    "longAction": "appleScript",
-    "longActionAppleScript": {
+    "action": "appleScript",
+    "actionAppleScript": {
         "inline": "tell application \"System Events\" to keystroke \"q\" using {control down, command down}"
     },
     "align": "right",
-    "title": "",
+    "title": "Lock",
     "bordered": true,
     "image": {
         "base64":
