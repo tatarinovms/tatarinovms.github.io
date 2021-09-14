@@ -16,6 +16,7 @@ reminders show-lists
 </code>
 
 - Пример
+
 <code>
 ❯ reminders show-lists
 Tasks
