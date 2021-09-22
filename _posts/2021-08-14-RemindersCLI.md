@@ -63,8 +63,15 @@ Completed 'Проверить работу добавление заметок'
 
 <code>
 alias radd="reminders add Tasks"
+  
 alias rshow="reminders show Tasks"
+  
 alias rcomp="reminders complete Tasks"
 </code>
 
-Теперь работать со списком задач в Tasks станет проще. Всего три комманды: <code>radd</code> <code>rshow</code> <code>rcomp</code>
+Теперь работать со списком задач в Tasks станет проще. Всего три комманды: 
+  <code>radd</code>
+  
+  <code>rshow</code>
+  
+  <code>rcomp</code>
