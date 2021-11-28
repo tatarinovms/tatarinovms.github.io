@@ -18,6 +18,6 @@ permalink: /donation/
 
 💳 [Donationalerts](http://www.donationalerts.ru/r/tatarinovms)
 
-💳 [Запрос Денег](https://www.tinkoff.ru/sl/Al0obkKT7Rk)
+💳 [Банковская карта](https://www.tinkoff.ru/rm/tatarinov.maksim1/7PGUE43434/)
 
 💎 TON UQAc994mONzZl2NE1sr6a_47Vgfd9YdGnI0J9DX_AhkUqwUK
