@@ -20,4 +20,4 @@ permalink: /donation/
 
 💳 [Банковская карта](https://www.tinkoff.ru/rm/tatarinov.maksim1/7PGUE43434/)
 
-💎 TONCoin EQBcS9spMP4wYme_UABzn_4zg7FG_wYJvLXvQOJ3o1VHUOQy
+💎 TONCoin: EQBcS9spMP4wYme_UABzn_4zg7FG_wYJvLXvQOJ3o1VHUOQy
