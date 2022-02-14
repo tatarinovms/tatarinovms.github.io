@@ -36,7 +36,8 @@ permalink: /about/
 - [Pinterest](http://pinterest.com/tatarinovms)
 - [4pda](http://4pda.ru/forum/index.php?showuser=639002)
 - [Юла](https://you.la/tatarinovms)
-- не, ну все может быть, и  может тебе удобнее в [Ok.ru](https://ok.ru/profile/574264377102)
+- [Matrix](https://matrix.to/#/@tatarinovm.s:matrix.org)
+- не, все может быть, и  может тебе удобнее в [Ok.ru](https://ok.ru/profile/574264377102)
 
 ### Где еще мне можно написать и глянуть что я делаю: 
 
@@ -46,5 +47,5 @@ permalink: /about/
 - читаю брюзжание и логинюсь в приложениях через [Facebook](https://www.facebook.com/tatarinovm.s)
 - есть [Youtube](https://www.youtube.com/c/MaximTatarinov) для стримов с друзьями
 - [Github](https://github.com/tatarinovms)
-- как и у всех есть [vk](https://vk.com/tatarinovms) VK я очень редкий гость
+- как и у всех есть [vk](https://vk.com/tatarinovms), но в соц сети этой очень редкий гость.
 - если вы HR, вам в [linkedin](https://www.linkedin.com/in/tatarinovms/)
