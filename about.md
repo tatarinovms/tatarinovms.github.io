@@ -29,14 +29,14 @@ permalink: /about/
 - **Twitter:** [@tatarinovms](https://twitter.com/tatarinovms)
 
 ### Прочие места где мне можно написать или меня найти:
-
+- [Matrix](https://matrix.to/#/@tatarinovm.s:matrix.org)
 - [Reddit](https://www.reddit.com/user/tatarinovms)
 - [Pikabu](https://pikabu.ru/@tatarinovm)
 - [Twitch](https://www.twitch.tv/tatarinovm)
 - [Pinterest](http://pinterest.com/tatarinovms)
 - [4pda](http://4pda.ru/forum/index.php?showuser=639002)
 - [Юла](https://you.la/tatarinovms)
-- [Matrix](https://matrix.to/#/@tatarinovm.s:matrix.org)
+- [TikTok](https://tiktok.com/@tatarinovms)
 - не, все может быть, и  может тебе удобнее в [Ok.ru](https://ok.ru/profile/574264377102)
 
 ### Где еще мне можно написать и глянуть что я делаю: 
