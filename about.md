@@ -28,6 +28,8 @@ permalink: /about/
 
 - **Twitter:** [@tatarinovms](https://twitter.com/tatarinovms)
 
+- **VK** [@tatarinovms](https://vk.com/tatarinovms)
+
 ### Прочие места где мне можно написать или меня найти:
 - [Matrix](https://matrix.to/#/@tatarinovm.s:matrix.org)
 - [Reddit](https://www.reddit.com/user/tatarinovms)
@@ -46,6 +48,5 @@ permalink: /about/
 - играю в [PlayStation](https://my.playstation.com/profile/tatarinovms)
 - читаю брюзжание и логинюсь в приложениях через [Facebook](https://www.facebook.com/tatarinovm.s)
 - есть [Youtube](https://www.youtube.com/c/MaximTatarinov) для стримов с друзьями
-- [Github](https://github.com/tatarinovms)
-- как и у всех есть [vk](https://vk.com/tatarinovms), но в соц сети этой очень редкий гость.
+- [Github](https://github.com/tatarinovms).
 - если вы HR, вам в [linkedin](https://www.linkedin.com/in/tatarinovms/)
