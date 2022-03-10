@@ -16,7 +16,7 @@ permalink: /about/
 
 👂 Все мои подписки на подкасты, можно взять взять в формате [opml](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/assets/files/overcast.opml)
 
-Скачать мою карточку в формате [vCard](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/assets/files/Maxim_Tatarinov.vcf)
+📄 Моя визитка в формате [vCard](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/assets/files/Maxim_Tatarinov.vcf)
 
 ### Самые оперативные способы связи со мной:
 
