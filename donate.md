@@ -35,3 +35,8 @@ EQBcS9spMP4wYme_UABzn_4zg7FG_wYJvLXvQOJ3o1VHUOQy
 ![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/donation/BTCS.png)
 
 
+### 💎 USDT (BCS-USD) BEP20
+
+0x9d2f1b3AD392388ecc34fA8fA7093a7cA50699A2
+
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/donation/USDT.png)
