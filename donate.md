@@ -20,10 +20,18 @@ permalink: /donation/
 
 💳 [Банковская карта](https://www.tinkoff.ru/rm/tatarinov.maksim1/7PGUE43434/)
 
-### CryptoWallet
+## CryptoWallet
 
-## 💎 TONCoin 
+### 💎 TONCoin 
 
 EQBcS9spMP4wYme_UABzn_4zg7FG_wYJvLXvQOJ3o1VHUOQy
 
 ![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/donation/TonCoin.png)
+
+### 💎 BTC 
+
+1LR2D8mbWepMc9bLWsK4V9TkFhbCHxrei5
+
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/donation/BTCS.png)
+
+
