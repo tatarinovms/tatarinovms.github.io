@@ -14,29 +14,29 @@ title: WireGuard VPN на вашей VDS
 - Логинмся по SSH на вашу VPS
 - Переходим в  Home
 
-<code>
+```
 cd ~
-</code>
+```
 - Скачиваем скрипт для простой установки и запускаем его:
 
-<code>
+```
 wget https://git.io/wireguard -O wireguard-install.sh && bash wireguard-install.sh
-</code>
+```
 
 - Теперь идем по шагам
 
-<code>
+```
 What port should WireGuard listen to?
 Port [51820]: 
-</code>
+```
 
 - Можем оставить стандартный порт, для этого нажимаем Enter
-<code>
+```
 Enter a name for the first client:
 Name [client]: 
-</code>
+```
 - Вводим имя первого клиента для подключения и нажимаем Enter
-<code>
+```
 Select a DNS server for the client:
    1) Current system resolvers
    2) Google
@@ -44,12 +44,12 @@ Select a DNS server for the client:
    4) OpenDNS
    5) Quad9
    6) AdGuard
-</code>
+```
 - Выбираем необходимый DNS для работы, могу рекомендовать 1.1.1.1,Google или AdGuard. Выбираем нужный (цифрой) и нажимаем Enter
-<code>
+```
 WireGuard installation is ready to begin.
 Press any key to continue...
-</code>
+```
 - Предворительная конфигурация готова. Нажимаем Enter для установки
 
 - Сервер установлен и готов конфиг для подключение первого клиента
@@ -70,34 +70,36 @@ Press any key to continue...
 Логично и правильно использовать для каждого нового устройства, новый клиент.
 Для добавления нового клиента логинимся снова на ваш VPS и
 - Переходим в ваш Home
-<code>
+
+```
 cd ~
-</code>
-– Запускаем наш скрипт снова
+```
 
-<code>
+- Запускаем наш скрипт снова
+
+```
 bash wireguard-install.sh
-</code>
-– Выбираем Add a new client 
+```
+- Выбираем Add a new client 
 
-<code>
+```
 Select an option:
    1) Add a new client
    2) Remove an existing client
    3) Remove WireGuard
    4) Exit
-</code>
-— Вводим имя клиента
+```
+- Вводим имя клиента
 
-<code> 
+``` 
 Provide a name for the client:
 Name: Test
-</code>
-– После выполнения комманды будет сгенерирован QR код для телефонного клиента и конфиг для десктопного клиента
+```
+- После выполнения комманды будет сгенерирован QR код для телефонного клиента и конфиг для десктопного клиента
 
 ### Настройка подключения для клиента на примере MacOS
-– Cкачиваем конфиг с сервера (через scp,sftp или просто подсмотрите его через комманду cat и создайте такойже конфиг на вашем ПК) конфиг находится в вашей Home с именем который вы указывали при создании клиента. 
-– Запускаем ранее скаченный WireGuard клиент для MacOS
-– Нажимаем Imoprt tunnell(s) from file 
-– Соглашаемся на добавление VPN
-– Для подключения нажимаем кнопку Activate или кликаем на название в трее
+- Cкачиваем конфиг с сервера (через scp,sftp или просто подсмотрите его через комманду cat и создайте такойже конфиг на вашем ПК) конфиг находится в вашей Home с именем который вы указывали при создании клиента. 
+- Запускаем ранее скаченный WireGuard клиент для MacOS
+- Нажимаем Imoprt tunnell(s) from file 
+- Соглашаемся на добавление VPN
+- Для подключения нажимаем кнопку Activate или кликаем на название в трее
