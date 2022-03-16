@@ -1,0 +1,103 @@
+---
+layout: post
+title: WireGuard VPN на вашей VDS
+---
+Расскажу как быстро и удобно поднять свой [WireGuard](https://www.wireguard.com/) сервер и подключиться к нему.
+
+## Список необходимого 
+- Ваша личная VPS c Ubuntu или Debian, AlmaLinux, Rocky Linux, CentOS, Fedora
+- Доступ к вашей VPS по SSH
+- Установленный WireGuard клиент на вашем устройстве. 
+Ссылки на клиенты: [macOS](https://itunes.apple.com/us/app/wireguard/id1451685025?ls=1&mt=12), [iOS](https://itunes.apple.com/us/app/wireguard/id1441195209?ls=1&mt=8),[Android GooglePlay](https://play.google.com/store/apps/details?id=com.wireguard.android), [Android F-Droid](https://f-droid.org/en/packages/com.wireguard.android/),[Windows](https://download.wireguard.com/windows-client/)
+
+### Установка и настройка WireGuard сервера
+- Логинмся по SSH на вашу VPS
+- Переходим в  Home
+
+```sh
+cd ~
+```
+- Скачиваем скрипт для простой установки и запускаем его:
+
+```sh
+wget https://git.io/wireguard -O wireguard-install.sh && bash wireguard-install.sh
+```
+
+- Теперь идем по шагам
+
+```sh
+What port should WireGuard listen to?
+Port [51820]: 
+```
+
+- Можем оставить стандартный порт, для этого нажимаем Enter
+```sh
+Enter a name for the first client:
+Name [client]: 
+```
+- Вводим имя первого клиента для подключения и нажимаем Enter
+```sh
+Select a DNS server for the client:
+   1) Current system resolvers
+   2) Google
+   3) 1.1.1.1
+   4) OpenDNS
+   5) Quad9
+   6) AdGuard
+```
+- Выбираем необходимый DNS для работы, могу рекомендовать 1.1.1.1,Google или AdGuard. Выбираем нужный (цифрой) и нажимаем Enter
+```sh
+WireGuard installation is ready to begin.
+Press any key to continue...
+```
+- Предворительная конфигурация готова. Нажимаем Enter для установки
+
+- Сервер установлен и готов конфиг для подключение первого клиента
+
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/assets/images/WG/wg.png)
+
+### Настройка подключения для клиента на примере iOS
+
+– Запускаем ранее скаченный WireGuard клиент для IOS
+– Нажимаем + 
+— Выбираем Create from QR code
+– Сканируем QR код из вашего терминала
+— Соглащаемся 
+– Передвигиаем переключать для активации
+- Проверяем работу VPN. Открыв в браузере сайт [2ip.ru](https://2ip.ru) или [ifoconfig.me](https://ifconfig.me/)
+
+### Добавлние нового клиента
+Логично и правильно использовать для каждого нового устройства, новый клиент.
+Для добавления нового клиента логинимся снова на ваш VPS и
+- Переходим в ваш Home
+```sh
+cd ~
+```
+– Запускаем наш скрипт снова
+
+```sh
+bash wireguard-install.sh
+```
+– Выбираем Add a new client 
+
+```sh
+Select an option:
+   1) Add a new client
+   2) Remove an existing client
+   3) Remove WireGuard
+   4) Exit
+```
+— Вводим имя клиента
+
+```sh 
+Provide a name for the client:
+Name: Test
+```
+– После выполнения комманды будет сгенерирован QR код для телефонного клиента и конфиг для десктопного клиента
+
+### Настройка подключения для клиента на примере MacOS
+– Cкачиваем конфиг с сервера (через scp,sftp или просто подсмотрите его через комманду cat и создайте такойже конфиг на вашем ПК) конфиг находится в вашей Home с именем который вы указывали при создании клиента. 
+– Запускаем ранее скаченный WireGuard клиент для MacOS
+– Нажимаем Imoprt tunnell(s) from file 
+– Соглашаемся на добавление VPN
+– Для подключения нажимаем кнопку Activate или кликаем на название в трее
