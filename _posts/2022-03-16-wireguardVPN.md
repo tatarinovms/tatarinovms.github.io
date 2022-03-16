@@ -54,7 +54,7 @@ Press any key to continue...
 
 - Сервер установлен и готов конфиг для подключение первого клиента
 
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/WG/wg.png)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/WG/wg.png)
 
 ### Настройка подключения для клиента на примере iOS
 
