@@ -14,7 +14,9 @@ permalink: /donation/
 
 [Ютуб](https://www.youtube.com/channel/UCBRwhdCwQRdgYz2zXadNXEg)
 
-### Как сделать Donation?
+## Как сделать Donation?
+
+## Банковские сервисы
 
 💳 [Donationalerts](http://www.donationalerts.ru/r/tatarinovms)
 
@@ -30,13 +32,27 @@ EQBcS9spMP4wYme_UABzn_4zg7FG_wYJvLXvQOJ3o1VHUOQy
 
 ### 💎 BTC 
 
-1LR2D8mbWepMc9bLWsK4V9TkFhbCHxrei5
+bc1q8e7tl0v8376r73r25mhrk2w937dnqpx3ja7azc
 
 ![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/donation/BTCS.png)
 
 
-### 💎 USDT (BCS-USD) BEP20
+### 💎 ETH
 
-0x9d2f1b3AD392388ecc34fA8fA7093a7cA50699A2
+0x06EDd9a757AD8d8e9c0A35D089C5ec244983b8A9
+
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/donation/ETH.png)
+
+### 💎  USDT on ETH Network 
+
+0x06EDd9a757AD8d8e9c0A35D089C5ec244983b8A9
 
 ![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/donation/USDT.png)
+
+
+### 💎  DOGE
+
+D6rJ9kxkfBFSR15yprYHAvKzb8XpFERTZU
+
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/donation/DOGE.png)
+
