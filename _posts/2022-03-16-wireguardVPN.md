@@ -14,29 +14,29 @@ title: WireGuard VPN на вашей VDS
 - Логинмся по SSH на вашу VPS
 - Переходим в  Home
 
-```sh
+<code>
 cd ~
-```
+</code>
 - Скачиваем скрипт для простой установки и запускаем его:
 
-```sh
+<code>
 wget https://git.io/wireguard -O wireguard-install.sh && bash wireguard-install.sh
-```
+</code>
 
 - Теперь идем по шагам
 
-```sh
+<code>
 What port should WireGuard listen to?
 Port [51820]: 
-```
+</code>
 
 - Можем оставить стандартный порт, для этого нажимаем Enter
-```sh
+<code>
 Enter a name for the first client:
 Name [client]: 
-```
+</code>
 - Вводим имя первого клиента для подключения и нажимаем Enter
-```sh
+<code>
 Select a DNS server for the client:
    1) Current system resolvers
    2) Google
@@ -44,12 +44,12 @@ Select a DNS server for the client:
    4) OpenDNS
    5) Quad9
    6) AdGuard
-```
+</code>
 - Выбираем необходимый DNS для работы, могу рекомендовать 1.1.1.1,Google или AdGuard. Выбираем нужный (цифрой) и нажимаем Enter
-```sh
+<code>
 WireGuard installation is ready to begin.
 Press any key to continue...
-```
+</code>
 - Предворительная конфигурация готова. Нажимаем Enter для установки
 
 - Сервер установлен и готов конфиг для подключение первого клиента
@@ -70,29 +70,29 @@ Press any key to continue...
 Логично и правильно использовать для каждого нового устройства, новый клиент.
 Для добавления нового клиента логинимся снова на ваш VPS и
 - Переходим в ваш Home
-```sh
+<code>
 cd ~
-```
+</code>
 – Запускаем наш скрипт снова
 
-```sh
+<code>
 bash wireguard-install.sh
-```
+</code>
 – Выбираем Add a new client 
 
-```sh
+<code>
 Select an option:
    1) Add a new client
    2) Remove an existing client
    3) Remove WireGuard
    4) Exit
-```
+</code>
 — Вводим имя клиента
 
-```sh 
+<code> 
 Provide a name for the client:
 Name: Test
-```
+</code>
 – После выполнения комманды будет сгенерирован QR код для телефонного клиента и конфиг для десктопного клиента
 
 ### Настройка подключения для клиента на примере MacOS
