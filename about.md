@@ -24,7 +24,7 @@ permalink: /about/
 
 - **Почта:** [tatarinovm.s@gmail.com](mailto:tatarinovm.s@gmail.com)
 
-- **Instagram:** [@tatarinovms](https://www.instagram.com/tatarinovms/)
+- **Instagram:** [@tatarinovms](https://www.instagram.com/tatarinovms/) (На территории РФ признан экстремистской организацией)
 
 - **Twitter:** [@tatarinovms](https://twitter.com/tatarinovms)
 
@@ -46,7 +46,6 @@ permalink: /about/
 - веду [Telegram канал](https://t.me/beaverclan)
 - слушаю музыку в [Spotify](https://open.spotify.com/user/tatarinovms?si=fQqV0-9QQ_OgO6IzsoryOA) 
 - играю в [PlayStation](https://my.playstation.com/profile/tatarinovms)
-- читаю брюзжание и логинюсь в приложениях через [Facebook](https://www.facebook.com/tatarinovm.s)
 - есть [Youtube](https://www.youtube.com/c/MaximTatarinov) для стримов с друзьями
 - [Github](https://github.com/tatarinovms).
 - если вы HR, вам в [linkedin](https://www.linkedin.com/in/tatarinovms/)
