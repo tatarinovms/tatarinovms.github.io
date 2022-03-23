@@ -24,7 +24,8 @@ permalink: /about/
 
 - **Почта:** [tatarinovm.s@gmail.com](mailto:tatarinovm.s@gmail.com)
 
-- **Instagram:** [@tatarinovms](https://www.instagram.com/tatarinovms/) (На территории РФ признан экстремистской организацией)
+- **Instagram:** [@tatarinovms](https://www.instagram.com/tatarinovms/)
+[ЗАПРЕЩËН В РФ, ПРИНАДЛЕЖИТ КОМПАНИИ “Meta”, ПРИЗНАННОЙ ЭКСТРЕМИСТСКОЙ В РФ]
 
 - **Twitter:** [@tatarinovms](https://twitter.com/tatarinovms)
 
