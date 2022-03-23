@@ -45,7 +45,6 @@ permalink: /about/
 ### Где еще мне можно написать и глянуть что я делаю: 
 
 - веду [Telegram канал](https://t.me/beaverclan)
-- слушаю музыку в [Spotify](https://open.spotify.com/user/tatarinovms?si=fQqV0-9QQ_OgO6IzsoryOA) 
 - играю в [PlayStation](https://my.playstation.com/profile/tatarinovms)
 - есть [Youtube](https://www.youtube.com/c/MaximTatarinov) для стримов с друзьями
 - [Github](https://github.com/tatarinovms).
