@@ -11,7 +11,9 @@ title: WireGuard VPN на вашей VDS
 Ссылки на клиенты: [macOS](https://itunes.apple.com/us/app/wireguard/id1451685025?ls=1&mt=12), [iOS](https://itunes.apple.com/us/app/wireguard/id1441195209?ls=1&mt=8),[Android GooglePlay](https://play.google.com/store/apps/details?id=com.wireguard.android), [Android F-Droid](https://f-droid.org/en/packages/com.wireguard.android/),[Windows](https://download.wireguard.com/windows-client/)
 
 ### Установка и настройка WireGuard сервера
+
 - Логинмся по SSH на вашу VPS
+
 - Переходим в  Home
 
 ```
@@ -31,6 +33,7 @@ Port [51820]:
 ```
 
 - Можем оставить стандартный порт, для этого нажимаем Enter
+
 ```
 Enter a name for the first client:
 Name [client]: 
@@ -62,7 +65,7 @@ Press any key to continue...
 – Нажимаем + 
 — Выбираем Create from QR code
 – Сканируем QR код из вашего терминала
-— Соглащаемся 
+— Соглашаемся 
 – Передвигиаем переключать для активации
 - Проверяем работу VPN. Открыв в браузере сайт [2ip.ru](https://2ip.ru) или [ifoconfig.me](https://ifconfig.me/)
 
@@ -98,8 +101,13 @@ Name: Test
 - После выполнения комманды будет сгенерирован QR код для телефонного клиента и конфиг для десктопного клиента
 
 ### Настройка подключения для клиента на примере MacOS
+
 - Cкачиваем конфиг с сервера (через scp,sftp или просто подсмотрите его через комманду cat и создайте такойже конфиг на вашем ПК) конфиг находится в вашей Home с именем который вы указывали при создании клиента. 
+
 - Запускаем ранее скаченный WireGuard клиент для MacOS
-- Нажимаем Imoprt tunnell(s) from file 
+
+- Нажимаем Import tunnell(s) from file 
+
 - Соглашаемся на добавление VPN
+
 - Для подключения нажимаем кнопку Activate или кликаем на название в трее
