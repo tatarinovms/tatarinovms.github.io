@@ -22,6 +22,11 @@ permalink: /donation/
 
 💳 [Банковская карта](https://www.tinkoff.ru/rm/tatarinov.maksim1/7PGUE43434/)
 
+💳 [CloudTips](https://pay.cloudtips.ru/p/fdd4b52c)
+
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/donation/qrCode.png)
+
+
 ## CryptoWallet
 
 ### 💎 TONCoin 
