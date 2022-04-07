@@ -9,25 +9,43 @@ tags: iOS
 
 ### Как сделать?
 
+
 – Запускаем Wireguard VPN, подключаемся к вашему VPN
-– Открываем в браузере на телефоне адрес https: //ifconfig.co/ чтобы узнать внешний IP адрес VPN"а
-— Запоминаем этот адрес
-— Запускаем приложение Shortcuts
+
+– Открываем в браузере на телефоне адрес [ifconfig.co](https://ifconfig.co) чтобы узнать внешний IP адрес VPN'а. Запоминаем этот адрес
+
+– Запускаем приложение Shortcuts
+
 – Переходим в раздел Automation и нажимаем + Create Personal Automation
-— App > Choose и выбираем Instagram и Is Opened
+
+– App > Choose и выбираем Instagram и Is Opened
+
 – Next
+
 – Add action
+
 – Get current IP address
+
 – Выбираем следующее действие if
+
 – Кликаем в поле Condition и выбираем is
+
 – Кликаем в Text
+
 – Вводим ваш внешний IP адрес VPN"а
-— Добавляем новое действие Stop this shortcut
+
+– Добавляем новое действие Stop this shortcut
+
 – Передвигаем его и ставим следующим действием после if
+
 – Доблавляем действие Open App
+
 – Кликаем в него и выбираем ваш VPN клиент. В моем случае это WireGuard
+
 – Нажимаем Next
+
 – Убираем переключатель Ask Before Running
+
 – Нажимаем Done
 
 Поясняющая картинка:
