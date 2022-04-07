@@ -24,6 +24,8 @@ permalink: /donation/
 
 💳 [CloudTips](https://pay.cloudtips.ru/p/fdd4b52c)
 
+💳 [Stripe для иностарнныйх карт](https://invoice.stripe.com/i/acct_1FgJcGB8OQwpJHKX/live_YWNjdF8xRmdKY0dCOE9Rd3BKSEtYLF9MU2FPSlBPbWlBT3A5NjlyTjd5Z2JMTWZ5V0tyalM0LDM5ODE2NzU40200oqxOIVA0?s=ap)
+
 ![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/donation/qrCode.png)
 
 
