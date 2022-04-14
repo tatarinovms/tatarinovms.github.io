@@ -8,11 +8,12 @@ tags: iOS, Yandex
 ### Генерация пароля для приложения
 
 Yandex рекомендует создать отдельный пароль для каждого стороннего приложения, которым требуется ваш пароль на Яндексе:
+
 Для этого воспользуйтесь этим гайдом от [Yandex](https://yandex.ru/support/id/authorization/app-passwords.html) 
 
 ### Подключаем Yandex по WebDav в приложении
 
-– Запускаем приложение в котором есть WebDav клиент. Моем случае это [Documents by Readdle](https://apps.apple.com/us/app/documents-by-readdle/id364901807) для iPadOS
+– Запускаем приложение в котором есть WebDav клиент. В моем случае это [Documents by Readdle](https://apps.apple.com/us/app/documents-by-readdle/id364901807) для iPadOS
 
 – Выбираем WebDav Server
 
