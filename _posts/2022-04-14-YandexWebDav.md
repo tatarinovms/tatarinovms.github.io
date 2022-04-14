@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Запуск VPN клиента без отсутствующей интеграции Shorcuts при старте Instagram
+title: Подключение Yandex.Disk по WebDav
 tags: iOS, Yandex 
 ---
 Краткий гайд, как подключить YandexDisk по протоколу WebDav.
