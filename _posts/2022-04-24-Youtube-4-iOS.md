@@ -21,7 +21,7 @@ Mail Plug-in актируется в MacOS в настройках прилож�
 
 ![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/Youtube/mail_app_plug.png)
 
-- Качаем ipa файл [YT 17.15.1_Cercube](https://disk.yandex.ru/d/JbTgJzSfM5gYUw) прям на устройстве
+- Качаем ipa файл [YT 17.15.1_Cercube](https://disk.yandex.ru/d/IfEuuH_GF9_vUg) прям на устройстве
 
 - Открываем ipa файл и "расшариваем" его в AltStore
 
