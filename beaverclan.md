@@ -3,4 +3,4 @@ layout: page
 title: Клан боевых бобров
 permalink: /beaverclan/
 ---
-<iframe width="900" height="1600" src="https://rss.app/embed/v1/wall/CGxb2QiCX9kyuib9" frameborder="0"></iframe>
+<iframe id="preview" style="border:0px;height:500px;width:500px;margin:5px;box-shadow: 0 0 16px 3px rgba(0,0,0,.2);" src="https://xn--r1a.website/s/beaverclan"></iframe>
