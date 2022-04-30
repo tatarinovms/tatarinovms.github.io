@@ -18,34 +18,35 @@ permalink: /about/
 
 📄 Моя визитка в формате [vCard](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/assets/files/Maxim_Tatarinov.vcf)
 
+Мой [CV](https://blog.tatarinov.space/cv/) 
+
 ### Самые оперативные способы связи со мной:
 
 - **Telegram:** [@tatarinovms](https://t.me/tatarinovms)
 
-- **Почта:** [tatarinovm.s@gmail.com](mailto:tatarinovm.s@gmail.com)
+- **Почта** [i@mtatarinov.ru](mailto:i@mtatarinov.ru)
 
-- **Instagram:** [@tatarinovms](https://www.instagram.com/tatarinovms/)
+- **Instagram** [@tatarinovms](https://www.instagram.com/tatarinovms/)
 [ЗАПРЕЩËН В РФ, ПРИНАДЛЕЖИТ КОМПАНИИ “Meta”, ПРИЗНАННОЙ ЭКСТРЕМИСТСКОЙ В РФ]
 
-- **Twitter:** [@tatarinovms](https://twitter.com/tatarinovms)
-
-- **VK** [@tatarinovms](https://vk.com/tatarinovms)
-
 ### Прочие места где мне можно написать или меня найти:
+- [Github](https://github.com/tatarinovms)
+- [Twitter](https://twitter.com/tatarinovms)
+- [VK](https://vk.com/tatarinovms)
 - [Matrix](https://matrix.to/#/@tatarinovm.s:matrix.org)
+- [linkedin](https://www.linkedin.com/in/tatarinovms/)
+- [TikTok](https://tiktok.com/@tatarinovms)
+- [Ok.ru](https://ok.ru/tatarinovms)
 - [Reddit](https://www.reddit.com/user/tatarinovms)
 - [Pikabu](https://pikabu.ru/@tatarinovm)
 - [Twitch](https://www.twitch.tv/tatarinovm)
+- [Youtube](https://www.youtube.com/c/MaximTatarinov)
 - [Pinterest](http://pinterest.com/tatarinovms)
 - [4pda](http://4pda.ru/forum/index.php?showuser=639002)
 - [Юла](https://you.la/tatarinovms)
-- [TikTok](https://tiktok.com/@tatarinovms)
-- не, все может быть, и  может тебе удобнее в [Ok.ru](https://ok.ru/profile/574264377102)
+- [Авито](https://www.avito.ru/user/529b5c431565dd362b548b9bb07845ee/profile)
 
 ### Где еще мне можно написать и глянуть что я делаю: 
-
 - веду [Telegram канал](https://t.me/beaverclan)
 - играю в [PlayStation](https://my.playstation.com/profile/tatarinovms)
-- есть [Youtube](https://www.youtube.com/c/MaximTatarinov) для стримов с друзьями
-- [Github](https://github.com/tatarinovms).
-- если вы HR, вам в [linkedin](https://www.linkedin.com/in/tatarinovms/) или откройте мой [CV](https://blog.tatarinov.space/cv/) 
+- если вы HR, вам в или откройте мой 

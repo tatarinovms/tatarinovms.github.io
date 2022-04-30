@@ -4,13 +4,13 @@ title: CV
 permalink: /cv/
 ---
 
-*Имя:* Максим Татаринов
+*Имя* Максим Татаринов
 
-*Текущая локация:* Магнитогорск, Россия 
+*Текущая локация* Магнитогорск/Москва, Россия 
 
-*Телефон:* <a href="tel:+79048041121">+79048041121</a> 
+*Телефон* (+79048041121)[tel:+79048041121]
 
-*Почта:* <a href="mailto:i@mtatarinov.ru">i@mtatarinov.ru</a>
+*Почта* [i@mtatarinov.ru](mailto:i@mtatarinov.ru)
 
 ## Опыт работы 
 
@@ -50,7 +50,7 @@ permalink: /cv/
 
 ### Технологии и продукты
 
-Postman, nodejs, HTML, CSS, Vue.js,  Oracle BD, PostgreSQL, SQL, Python, Java
+Postman, wireshark, nodejs, Tomcat HTML, CSS, Vue.js, Oracle BD, PostgreSQL, SQL, Python, Java, git, svn, Jira, Trello, Bugzilla, Linix, Windows, MacOS  
 
 ### Иностранные языки
 
@@ -77,4 +77,3 @@ Postman, nodejs, HTML, CSS, Vue.js,  Oracle BD, PostgreSQL, SQL, Python, Java
 [Блог](https://blog.tatarinov.space)
 
 [Telegram канал](https://t.me/beaverclan)
-
