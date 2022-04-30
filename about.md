@@ -48,4 +48,4 @@ permalink: /about/
 - играю в [PlayStation](https://my.playstation.com/profile/tatarinovms)
 - есть [Youtube](https://www.youtube.com/c/MaximTatarinov) для стримов с друзьями
 - [Github](https://github.com/tatarinovms).
-- если вы HR, вам в [linkedin](https://www.linkedin.com/in/tatarinovms/)
+- если вы HR, вам в [linkedin](https://www.linkedin.com/in/tatarinovms/) или откройте мой [CV](https://blog.tatarinov.space/cv/) 
