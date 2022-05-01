@@ -18,7 +18,7 @@ permalink: /about/
 
 📄 Моя визитка в формате [vCard](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/assets/files/Maxim_Tatarinov.vcf)
 
-🖨️ Мой CV (https://blog.tatarinov.space/cv/) 
+🖨️ [Мой CV](https://blog.tatarinov.space/cv/) 
 
 ### Самые оперативные способы связи со мной:
 
@@ -27,9 +27,9 @@ permalink: /about/
 - **Почта** [i@mtatarinov.ru](mailto:i@mtatarinov.ru)
 
 - **Instagram** [@tatarinovms](https://www.instagram.com/tatarinovms/)
-[ЗАПРЕЩËН В РФ, ПРИНАДЛЕЖИТ КОМПАНИИ “Meta”, ПРИЗНАННОЙ ЭКСТРЕМИСТСКОЙ В РФ]
 
 ### Прочие места где мне можно написать или меня найти:
+
 - [Github](https://github.com/tatarinovms)
 - [Twitter](https://twitter.com/tatarinovms)
 - [VK](https://vk.com/tatarinovms)
@@ -45,8 +45,10 @@ permalink: /about/
 - [4pda](http://4pda.ru/forum/index.php?showuser=639002)
 - [Юла](https://you.la/tatarinovms)
 - [Авито](https://www.avito.ru/user/529b5c431565dd362b548b9bb07845ee/profile)
+- [PlayStation](https://my.playstation.com/profile/tatarinovms)
+- [Spotify](https://open.spotify.com/user/tatarinovms)
 
-### Где еще мне можно написать и глянуть что я делаю: 
+### Прочие активности: 
+
 - веду [Telegram канал](https://t.me/beaverclan)
-- играю в [PlayStation](https://my.playstation.com/profile/tatarinovms)
-- если вы HR, вам в или откройте мой 
+- если вы HR, вам можно почитать [Мой CV](https://blog.tatarinov.space/cv/)
