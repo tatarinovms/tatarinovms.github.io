@@ -36,6 +36,7 @@ permalink: /about/
 - [Matrix](https://matrix.to/#/@tatarinovm.s:matrix.org)
 - [linkedin](https://www.linkedin.com/in/tatarinovms/)
 - [TikTok](https://tiktok.com/@tatarinovms)
+- [FaceBook](https://www.facebook.com/people/Maxim-S-Tatarinov/100001079016303/)
 - [Ok.ru](https://ok.ru/tatarinovms)
 - [Reddit](https://www.reddit.com/user/tatarinovms)
 - [Pikabu](https://pikabu.ru/@tatarinovm)
