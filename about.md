@@ -47,6 +47,7 @@ permalink: /about/
 - [Авито](https://www.avito.ru/user/529b5c431565dd362b548b9bb07845ee/profile)
 - [PlayStation](https://my.playstation.com/profile/tatarinovms)
 - [Spotify](https://open.spotify.com/user/tatarinovms)
+- [Yandex.Music](https://music.yandex.com/users/tatarinovm.s/playlists)
 
 ### Прочие активности: 
 
