@@ -3,7 +3,7 @@ layout: post
 title: Аналог TeamViewer - rustdesk
 tags: soft, macos, linux, windows
 ---
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/rustdesk/logo.jpg)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/rustdesk/logo.png)
 
 На фоне новостей о том что TeamViewer перестает работать с Россией решил выбрать его аналог, хотя для частного использования они не закрыты, но лично у меня был неприятный момент когда меня из-за частой помощи людям TeamViewer заподозрил в комерчиской деятельности и ограничивал мне продолжительсть сессии в 5 минут. Искал среди простого и удобного клиента, чтобы им могла пользоваться ваша бабушка. 
 
