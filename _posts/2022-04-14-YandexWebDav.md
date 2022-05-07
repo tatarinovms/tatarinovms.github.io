@@ -3,6 +3,8 @@ layout: post
 title: Подключение Yandex.Disk по WebDav
 tags: iOS, Yandex 
 ---
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/YandexWebDav/logo.png)
+
 Краткий гайд, как подключить YandexDisk по протоколу WebDav.
 
 ### Генерация пароля для приложения
