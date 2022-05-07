@@ -3,6 +3,8 @@ layout: post
 title: Запуск VPN клиента без отсутствующей интеграции Shortcuts при старте Instagram
 tags: iOS
 ---
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/ShortcutsVPN/logo.png)
+
 Как мы знаем на территории РФ почти все сервисы компании Meta признаны экстремистскими организациями. Но пользоваться ими можно и иногда нужно, конечно же через VPN.
 
 Для того чтобы не забывать запускать VPN при открытии Instagram предлагаю воспользоваться приложением Shortcuts. Данный способ подходит для VPN приложений у которых отсутствует интеграция с Shortcuts. Мой VPN клиент именно такой. Я использую WireGuard.
