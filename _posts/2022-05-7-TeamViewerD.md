@@ -30,13 +30,15 @@ tags: soft, macos, linux, windows
 
 ![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/rustdesk/win.png)
 
-### Подключаемся
+## Подключаемся
 
-# C ПК
+Вводим ID и пароль от устройства и подключаемся.
+
+### C ПК
 
 ![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/rustdesk/connectmac.png)
 
-# С телефона
+### С телефона
 
 ![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/rustdesk/ios.png)
 
