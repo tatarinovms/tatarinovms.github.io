@@ -2,6 +2,8 @@
 layout: post
 title: reminders-cli
 ---
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/RemindersCli/logo.png)
+
 Да, и снова CLI утилита. Люблю я консоль. Решил попользоваться утилитой для добавления заметок в программу iOS Reminders, чтобы напоминания были под рукой на телефоне и планшете. А добавлять иногда хочется напоминания через консоль, так как можно автотизировать создание заметки в скриптах.
 
 ## Установка

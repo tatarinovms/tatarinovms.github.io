@@ -2,6 +2,8 @@
 layout: post
 title: WireGuard VPN на вашей VDS
 ---
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/WireGuard/logo.png)
+
 Расскажу как быстро и удобно поднять свой [WireGuard](https://www.wireguard.com/) сервер и подключиться к нему.
 
 ## Список необходимого 
