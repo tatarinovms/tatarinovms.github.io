@@ -9,4 +9,4 @@ tags: Alfred MacOS Apple
 ### Как пользоваться?
 Вызываем Alflred и запускаем команду rm и заполняем название, дату и время когда сделать напоминание.
 
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/apr.gif)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/alfredreminders/apr.gif)

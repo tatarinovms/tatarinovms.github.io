@@ -5,7 +5,7 @@ permalink: /about/
 ---
 ### Привет, я Максим.
 
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/tatarinovms.JPG)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/about/logo.JPG)
  
 
 💻 Разбираюсь в *nix, веб-сервисах, сетях. Могу внедрить "не внедряемое" и настроить "настраиваемое". 
