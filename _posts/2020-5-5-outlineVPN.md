@@ -3,6 +3,8 @@ layout: post
 title: Настройка VPN сервера Outline
 tags: cli brew vpn
 ---
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/outline/logo.png)
+
 Простой способ поднять VPN сервер.
 
 Для этого воспользуемся [Outline]((https://getoutline.org/en/home)). 
@@ -26,7 +28,7 @@ Outline еще хорош тем, что он использует проток�
 
 ### Как сделать?
 
-Screenshot-2020-05-27-at-17.08.07.png.jpg
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/outline/Screenshot-2020-05-27-at-17.08.07.png.jpg)
 
 - Скачиваем Outline Manager на ПК. Клиенты есть под [ Windows]((https://raw.githubusercontent.com/Jigsaw-Code/outline-releases/master/manager/stable/Outline-Manager.exe)), 
 [ MacOS]((https://raw.githubusercontent.com/Jigsaw-Code/outline-releases/master/manager/stable/Outline-Manager.dmg)),
@@ -85,7 +87,7 @@ CONGRATULATIONS! Your Outline server is up and running.
 
 - Копируем из консоли этот ключ и вставляем его в Outline Manager. И нажимаем Done. Вы подключились к серверу. 
 
-Screenshot-2020-05-27-at-15.55.51.png
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/outline/Screenshot-2020-05-27-at-15.55.51.png)
 
 - Вы восхитительны!
 
@@ -95,7 +97,7 @@ Screenshot-2020-05-27-at-15.55.51.png
 - Указываем удобное название ключа
 - При нажатии на кнопку Share у вас будет открываться окно с ссылкой, которая нам и пригодится для настройки подключения в клиенте.
 
-Screenshot-2020-05-27-at-16.31.png
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/outline/Screenshot-2020-05-27-at-16.31.png)
 
 Как подключаться к VPN c пк и телефона?
  ПК
