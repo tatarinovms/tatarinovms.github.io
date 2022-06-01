@@ -1,6 +1,6 @@
 ---
 layout: post
-title: termtosvg – сохранем ввод консольных комманд в анимацию
+title: termtosvg – сохраняем консольный вывод в svg анимацию
 tags: MacOS, CLI
 ---
 ![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/termtosvg/logo.png)
