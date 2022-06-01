@@ -17,4 +17,4 @@ brew install termtosvg
 
 Покажу как использовать termtosvg в termtosvg!
 
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/termtosvg/logo.png)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/termtosvg/termtosvg.svg)
