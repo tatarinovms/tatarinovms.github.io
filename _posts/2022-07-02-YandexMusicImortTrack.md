@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Scrcpy - Управление вашим Android устройством с ПК
+title: Yandex.Music — загрузка своих треков
 tags: MacOS
 ---
+
 ![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/YandexMusic/logo.png)
 
 В связи со сложившейся ситуацией я полностью перешел на Yandex.Music. Коллекция во всех стриминаговых сервисах не всегда полноценны, и часто причиной этого является не только сервисы, но и сами группы. Но, есть хорошая новость, Yandex Music позволяет загружать свои треки.
