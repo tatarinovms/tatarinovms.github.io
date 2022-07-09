@@ -61,7 +61,7 @@ permalink: /cv/
 
 ## Технологии и продукты
 
-Postman, wireshark, nodejs, Tomcat HTML, CSS, Vue.js, Oracle BD, PostgreSQL, SQL, Python, Java, git, svn, Jira, Trello, Bugzilla, Linix, Windows, MacOS  
+Postman, wireshark, nodejs, Tomcat HTML, CSS, Vue.js, Oracle BD, PostgreSQL, SQL, Python, Java, git, svn, Jira, Trello, Bugzilla, Linix, Windows, MacOS, Fedora, Ubuntu, Redhat
 
 ## Иностранные языки
 
