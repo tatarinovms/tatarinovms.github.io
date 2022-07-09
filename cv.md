@@ -30,7 +30,7 @@ permalink: /cv/
 
 ### Implementation Engineer / Product Support Engineer
 
-Апрель 2014 г. - Октябрь 2019 г.
+Апрель 2014 г. - Октябрь 2015 г.
 
 ### IT User Support Enginee
 
