@@ -27,6 +27,12 @@ cd ~
 wget https://git.io/wireguard -O wireguard-install.sh && bash wireguard-install.sh
 ```
 
+или если вы хотите установщик с русскими DNS и [измненями](https://blog.tatarinov.space/wireguardVPNScripts/)
+
+```
+wget https://raw.githubusercontent.com/tatarinovms/wireguard-install/master/wireguard-install.sh -O wireguard-install.sh && bash wireguard-install.sh 
+```
+
 - Теперь идем по шагам
 
 ```
