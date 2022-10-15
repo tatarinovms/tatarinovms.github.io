@@ -16,13 +16,16 @@ permalink: /donation/
 
 ## Как сделать Donation?
 
-## Банковские сервисы
+## Банковские и платежные сервисы
 
 💳 [Donationalerts](http://www.donationalerts.ru/r/tatarinovms)
+
+💳 [YooMoney](https://yoomoney.ru/to/410013980054903) 
 
 💳 [Банковская карта](https://www.tinkoff.ru/rm/tatarinov.maksim1/7PGUE43434/)
 
 💳 [CloudTips](https://pay.cloudtips.ru/p/fdd4b52c)
+
 
 ![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/donation/qrCode.png)
 
