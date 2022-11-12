@@ -20,6 +20,8 @@ permalink: /donation/
 
 💳 [Donationalerts](http://www.donationalerts.ru/r/tatarinovms)
 
+💳 [donate.stream](https://donate.stream/donate_6367a0f19a730)
+
 💳 [YooMoney](https://yoomoney.ru/to/410013980054903) 
 
 💳 [Банковская карта](https://www.tinkoff.ru/rm/tatarinov.maksim1/7PGUE43434/)
@@ -34,33 +36,6 @@ permalink: /donation/
 
 ### 💎 TONCoin 
 
-EQBcS9spMP4wYme_UABzn_4zg7FG_wYJvLXvQOJ3o1VHUOQy
+UQAc994mONzZl2NE1sr6a_47Vgfd9YdGnI0J9DX_AhkUqwUK
 
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/donation/TonCoin.png)
-
-### 💎 BTC 
-
-bc1q8e7tl0v8376r73r25mhrk2w937dnqpx3ja7azc
-
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/donation/BTCS.png)
-
-
-### 💎 ETH
-
-0x06EDd9a757AD8d8e9c0A35D089C5ec244983b8A9
-
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/donation/ETH.png)
-
-### 💎  USDT on ETH Network 
-
-0x06EDd9a757AD8d8e9c0A35D089C5ec244983b8A9
-
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/donation/USDT.png)
-
-
-### 💎  DOGE
-
-D6rJ9kxkfBFSR15yprYHAvKzb8XpFERTZU
-
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/donation/DOGE.png)
 
