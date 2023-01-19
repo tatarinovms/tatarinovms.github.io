@@ -16,6 +16,15 @@ permalink: /donation/
 
 ## Как сделать Donation?
 
+## CryptoWallet
+
+### 💎 TONCoin 
+
+EQDMkn2UKpkSyZK7-OHipFJKTXlb2qfoIvnbX1TbofXXM2Sz
+
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/donation/TonCoin.png)
+
+
 ## Банковские и платежные сервисы
 
 💳 [Donationalerts](http://www.donationalerts.ru/r/tatarinovms)
@@ -30,12 +39,3 @@ permalink: /donation/
 
 
 ![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/donation/qrCode.png)
-
-
-## CryptoWallet
-
-### 💎 TONCoin 
-
-UQAc994mONzZl2NE1sr6a_47Vgfd9YdGnI0J9DX_AhkUqwUK
-
-
