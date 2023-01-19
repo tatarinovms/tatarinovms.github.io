@@ -24,7 +24,6 @@ EQDMkn2UKpkSyZK7-OHipFJKTXlb2qfoIvnbX1TbofXXM2Sz
 
 ![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/donation/TonCoin.png)
 
-
 ## Банковские и платежные сервисы
 
 💳 [Donationalerts](http://www.donationalerts.ru/r/tatarinovms)
