@@ -98,3 +98,4 @@ The client configuration is available in: /root/blog.ovpn
 
 - в моем роутере еще есть настройка списка устройств (Device List) для которых трафик идет через VPN. Т.е мы можем выбрать устройство для которого будет "работать" OpenVPN. Очень удобная функция
 
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/OpenVPN/2.png)
