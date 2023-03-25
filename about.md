@@ -15,7 +15,7 @@ permalink: /about/
 
 📚 Читаю всякое и много. Чаще фантастику
 
-👂 Все мои подписки на подкасты, можно взять взять в формате [opml](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/assets/files/overcast.opml)
+👂 Все мои подписки на подкасты, можно взять взять в формате [opml](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/assets/files/podcasts.opml)
 
 📄 Моя визитка в формате [vCard](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/assets/files/Maxim_Tatarinov.vcf)
 
@@ -34,7 +34,6 @@ permalink: /about/
 - [Github](https://github.com/tatarinovms)
 - [Twitter](https://twitter.com/tatarinovms)
 - [VK](https://vk.com/tatarinovms)
-- [Matrix](https://matrix.to/#/@tatarinovm.s:matrix.org)
 - [linkedin](https://www.linkedin.com/in/tatarinovms/)
 - [TikTok](https://tiktok.com/@tatarinovms)
 - [FaceBook](https://www.facebook.com/people/Maxim-S-Tatarinov/100001079016303/)
@@ -46,10 +45,12 @@ permalink: /about/
 - [Pinterest](http://pinterest.com/tatarinovms)
 - [4pda](http://4pda.ru/forum/index.php?showuser=639002)
 - [Юла](https://you.la/tatarinovms)
-- [Авито](https://www.avito.ru/user/529b5c431565dd362b548b9bb07845ee/profile)
+- [Авито](https://www.avito.ru/user/8e51259bf92a1fde6c218f446de0124d/profile)
 - [PlayStation](https://my.playstation.com/profile/tatarinovms)
+- [Steam](https://steamcommunity.com/id/tatarinovms/)
 - [Spotify](https://open.spotify.com/user/tatarinovms)
 - [Yandex.Music](https://music.yandex.com/users/tatarinovm.s/playlists)
+- [VSCO](https://vsco.co/tatarinovms)w
 
 ### Прочие активности: 
 

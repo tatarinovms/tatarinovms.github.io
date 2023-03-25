@@ -24,17 +24,32 @@ EQDMkn2UKpkSyZK7-OHipFJKTXlb2qfoIvnbX1TbofXXM2Sz
 
 ![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/donation/TonCoin.png)
 
+### 💎 Bitcoin - BTC 
+
+17kVhQgZE2dD2DnYkPgQfYbbg6qngUcbDk
+
+### 💎 USDT TRON (TRC20) 
+
+TFRmcLSdRKjr5CbXreXkf46WQ9m2dCLRAx
+
+⚠️ На этот адрес отправляйте только USDT TRON (TRC20). Другие монеты могут не дойти и будут утрачены.
+
 ## Банковские и платежные сервисы
 
 💳 [Donationalerts](http://www.donationalerts.ru/r/tatarinovms)
 
-💳 [donate.stream](https://donate.stream/donate_6367a0f19a730)
+💳 [donate.stream](https://donate.stream/tatarinovms_donation)
+
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/donation/donate_stream.png)
 
 💳 [YooMoney](https://yoomoney.ru/to/410013980054903) 
 
-💳 [Банковская карта](https://www.tinkoff.ru/rm/tatarinov.maksim1/7PGUE43434/)
+💳 [Банковская карта на Tinkoff](https://www.tinkoff.ru/rm/tatarinov.maksim1/7PGUE43434/)
+
+💳 [Банковская карта на СберБанк](https://www.sberbank.com/ru/person/dl/jc?user_link=75QHc4YiKa31dLopx)
+
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/donation/sber.png)
 
 💳 [CloudTips](https://pay.cloudtips.ru/p/fdd4b52c)
-
 
 ![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/donation/qrCode.png)

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<opml version="1.0">
+	<head>
+		<title>Pocket Casts Feeds</title>
+	</head>
+	<body>
+		<outline text="feeds">
+			<outline text="RootCast" type="rss" xmlUrl="https://anchor.fm/s/60988a40/podcast/rss" />
+			<outline xmlUrl="https://feeds.feedburner.com/pirate-radio-t" type="rss" text="Пираты-РТ" />
+			<outline type="rss" text="Радио-Т" xmlUrl="https://feeds.feedburner.com/Radio-t" />
+			<outline xmlUrl="http://rv.podfm.ru/rss/rss.xml" type="rss" text="Радиус Вселенной" />
+			<outline xmlUrl="https://beardycast.libsyn.com/rss" type="rss" text="#BeardyCast: гаджеты и медиакультура" />
+			<outline type="rss" text="Учим английский с Don’t Speak" xmlUrl="https://podster.fm/rss.xml?pid=250" />
+			<outline text="Отвратительные мужики" type="rss" xmlUrl="https://podster.fm/rss.xml?pid=20066" />
+			<outline text="Как делают игры" xmlUrl="https://feeds.feedburner.com/Galyonkin-pod" type="rss" />
+			<outline xmlUrl="https://devzen.ru/feed/" type="rss" text="DevZen Podcast" />
+			<outline xmlUrl="https://cloud.mave.digital/34893" type="rss" text="«Не занесли». Игры, кино, сериалы и книги" />
+			<outline text="The Big Beard Theory" type="rss" xmlUrl="https://feeds.fireside.fm/tbbt/rss" />
+			<outline type="rss" text="Развлекательный IT-подкаст Радиома" xmlUrl="https://feeds.feedburner.com/It-Radioma" />
+			<outline type="rss" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:291337106/sounds.rss" text="Podlodka Podcast" />
+			<outline xmlUrl="https://podcast.guardian.fm/guardianfm.rss" type="rss" text="Guardian.FM" />
+			<outline xmlUrl="HTTP://feeds.rucast.net/Umputun" text="UWP - Eженедельный подкаст от Umputun" type="rss" />
+			<outline type="rss" text="Two Titans Podcast" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:529593717/sounds.rss" />
+			<outline type="rss" xmlUrl="https://anchor.fm/s/83bb9134/podcast/rss" text="Android Dev Подкаст" />
+			<outline type="rss" text="Hobby Talks" xmlUrl="http://hobbytalks.org/rss.xml" />
+			<outline text="Лекции Arzamas" xmlUrl="https://arzamas.academy/feed_v1/podcast.rss" type="rss" />
+			<outline type="rss" text="Zavtracast (Завтракаст)" xmlUrl="https://feeds.podcastmirror.com/zavtracast" />
+			<outline type="rss" text="Newочём" xmlUrl="https://podster.fm/rss.xml?pid=48291" />
+			<outline type="rss" xmlUrl="https://feeds.podcastmirror.com/razborpoletov" text="Разбор Полетов" />
+			<outline text="ВИВАТ, ИСТОРИЯ!" xmlUrl="https://podster.fm/rss.xml?pid=778" type="rss" />
+			<outline type="rss" text="Жиза ГД" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:477063468/sounds.rss" />
+			<outline type="rss" text="Брендятина" xmlUrl="https://radiomayak.ru/podcasts/rss/podcast/45" />
+			<outline xmlUrl="https://cloud.mave.digital/43677" type="rss" text="Батина Консоль" />
+			<outline type="rss" text="Подкаст &quot;Витая пара&quot;" xmlUrl="https://tpair.org/feed/podcast/" />
+			<outline text="Guardian.FM Ловушка Саватун" xmlUrl="https://podcast.guardian.fm/savathun.rss" type="rss" />
+			<outline type="rss" xmlUrl="https://podster.fm/rss.xml?pid=73690" text="HansZimmerJukebox" />
+			<outline xmlUrl="https://linkmeup.ru/podcasts/feed/" type="rss" text="linkmeup" />
+			<outline xmlUrl="https://cloud.mave.digital/33935" type="rss" text="ROMA. Падение Республики" />
+			<outline type="rss" text="Zavtratunes" xmlUrl="https://feeds.podcastmirror.com/zavtratunes" />
+			<outline text="Без шапки" xmlUrl="https://cloud.mave.digital/36950" type="rss" />
+			<outline xmlUrl="https://cloud.mave.digital/33880" type="rss" text="Вастрик Клуб" />
+			<outline xmlUrl="https://zemlekop.libsyn.com/rss" type="rss" text="Голый землекоп" />
+			<outline text="ДевШахта" type="rss" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:299701886/sounds.rss" />
+			<outline type="rss" text="Душевный подкаст" xmlUrl="https://cloud.mave.digital/33633" />
+			<outline type="rss" text="Закат империи" xmlUrl="https://zakatimperii.libsyn.com/rss" />
+			<outline text="Запуск завтра" xmlUrl="https://feeds.libsyn.com/230747/rss" type="rss" />
+			<outline type="rss" xmlUrl="https://feeds.simplecast.com/wOOf2hMh" text="Как это по-русски" />
+			<outline xmlUrl="https://cloud.mave.digital/35541" text="Короче, история" type="rss" />
+			<outline type="rss" text="Купертино" xmlUrl="https://feeds.fireside.fm/cupertino/rss" />
+			<outline type="rss" xmlUrl="https://anchor.fm/s/d2d6448/podcast/rss" text="Модель Для Сборки" />
+			<outline xmlUrl="https://tehnikarechi.studio/api/rss/podcasts/namochi-mantu" text="Намочи манту" type="rss" />
+			<outline type="rss" text="Подкастеры" xmlUrl="https://cloud.mave.digital/33937" />
+			<outline text="Поручик Киже. Исторический подкаст" type="rss" xmlUrl="https://podster.fm/rss.xml?pid=67712" />
+			<outline xmlUrl="https://feeds.fireside.fm/pif/rss" text="Похоже, я фотограф" type="rss" />
+			<outline text="При царе Горохе" type="rss" xmlUrl="http://rss.castbox.fm/everest/779fba8a3c3a4da9b85d585540d0e057.xml" />
+			<outline text="Розенталь и Гильденстерн" xmlUrl="https://tehnikarechi.studio/api/rss/podcasts/rozental-i-gildenstern" type="rss" />
+			<outline text="Фантастический подкаст" type="rss" xmlUrl="https://podcast.mirf.ru/feed/podcast/mirf1" />
+			<outline type="rss" text="Хард and Изи" xmlUrl="https://podster.fm/rss.xml?pid=68953" />
+			<outline type="rss" text="Хочу всё знать" xmlUrl="https://radiomayak.ru/podcasts/rss/podcast/1761/" />
+			<outline type="rss" text="Горящий бензовоз" xmlUrl="https://cloud.mave.digital/34720" />
+			<outline text="Есть текст by DTF" xmlUrl="https://cloud.mave.digital/35621" type="rss" />
+			<outline text="Хоба!" xmlUrl="https://cloud.mave.digital/39674" type="rss" />
+			<outline xmlUrl="https://api.substack.com/feed/podcast/672837.rss" type="rss" text="IT мысли" />
+			<outline type="rss" text="Базовый Блок: подкаст про блокчейн" xmlUrl="https://basicblockradio.libsyn.com/rss" />
+			<outline type="rss" text="История любимых продуктов" xmlUrl="https://cloud.mave.digital/37399" />
+			<outline type="rss" text="Redroom" xmlUrl="https://cloud.mave.digital/36713" />
+			<outline xmlUrl="https://feeds.fireside.fm/lorapalnadiaries/rss" text="Дневники Лоры Палны" type="rss" />
+			<outline xmlUrl="https://potrechim.libsyn.com/rss" type="rss" text="Потрещим по швам" />
+		</outline>
+	</body>
+</opml>
