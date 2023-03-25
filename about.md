@@ -50,7 +50,7 @@ permalink: /about/
 - [Steam](https://steamcommunity.com/id/tatarinovms/)
 - [Spotify](https://open.spotify.com/user/tatarinovms)
 - [Yandex.Music](https://music.yandex.com/users/tatarinovm.s/playlists)
-- [VSCO](https://vsco.co/tatarinovms)w
+- [VSCO](https://vsco.co/tatarinovms)
 
 ### Прочие активности: 
 
