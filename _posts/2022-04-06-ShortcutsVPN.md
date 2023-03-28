@@ -5,6 +5,8 @@ tags: iOS
 ---
 ![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/ShortcutsVPN/logo.png)
 
+*ексли у вас iOS 16.4, то рекомендую к прочтению данный пост:[Авключения VPN в iOS 16.4 через Shortcuts при запуске приложения](https://blog.tatarinov.space/iOS164VPN/) 
+
 Как мы знаем на территории РФ почти все сервисы компании Meta признаны экстремистскими организациями. Но пользоваться ими можно и иногда нужно, конечно же через VPN.
 
 Для того чтобы не забывать запускать VPN при открытии Instagram предлагаю воспользоваться приложением Shortcuts. Данный способ подходит для VPN приложений у которых отсутствует интеграция с Shortcuts. Мой VPN клиент именно такой. Я использую WireGuard.
