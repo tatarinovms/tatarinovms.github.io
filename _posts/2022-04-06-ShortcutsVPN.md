@@ -5,7 +5,7 @@ tags: iOS
 ---
 ![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/ShortcutsVPN/logo.png)
 
-*ексли у вас iOS 16.4, то рекомендую к прочтению данный пост:[Авключения VPN в iOS 16.4 через Shortcuts при запуске приложения](https://blog.tatarinov.space/iOS164VPN/) 
+*если у вас iOS 16.4, то рекомендую к прочтению данный пост:[Автовключение VPN в iOS 16.4 через Shortcuts при запуске приложения](https://blog.tatarinov.space/iOS164VPN/) 
 
 Как мы знаем на территории РФ почти все сервисы компании Meta признаны экстремистскими организациями. Но пользоваться ими можно и иногда нужно, конечно же через VPN.
 
