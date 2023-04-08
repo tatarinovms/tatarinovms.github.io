@@ -20,19 +20,19 @@ permalink: /donation/
 
 ### 💎 TONCoin 
 
-EQDMkn2UKpkSyZK7-OHipFJKTXlb2qfoIvnbX1TbofXXM2Sz
+UQAc994mONzZl2NE1sr6a_47Vgfd9YdGnI0J9DX_AhkUqwUK
 
 ![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/donation/TonCoin.png)
-
-### 💎 Bitcoin - BTC 
-
-17kVhQgZE2dD2DnYkPgQfYbbg6qngUcbDk
 
 ### 💎 USDT TRON (TRC20) 
 
 TFRmcLSdRKjr5CbXreXkf46WQ9m2dCLRAx
 
 ⚠️ На этот адрес отправляйте только USDT TRON (TRC20). Другие монеты могут не дойти и будут утрачены.
+
+### 💎 Bitcoin - BTC 
+
+19L2L56FVpNkURQCw9Mp3kKP7e7H9UiTRj
 
 ## Банковские и платежные сервисы
 
