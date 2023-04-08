@@ -27,11 +27,11 @@ permalink: /cv/
 
 ### Implementation Engineer / Product Support Engineer
 
-Апрель 2014 г. - Октябрь 2015 г.
+Апрель 2014 г. — Октябрь 2015 г.
 
-### IT User Support Enginee
+### IT User Support Engineer
 
-Август 2012 г. - Апрель 2014 г.
+Август 2012 г. — Апрель 2014 г.
 
 ## Профессиональные навыки:
 ✅ Знание теории и методов тестирования;
