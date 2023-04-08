@@ -79,7 +79,7 @@ Postman, wireshark, nodejs, Tomcat HTML, CSS, Vue.js, Oracle BD, PostgreSQL, SQL
 2007 г.- 2011 г.
 
 
-## Other activities
+## Прочие активности:
 
 [Блог](https://blog.tatarinov.space)
 
