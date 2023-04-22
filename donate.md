@@ -40,22 +40,21 @@ TFRmcLSdRKjr5CbXreXkf46WQ9m2dCLRAx
 
 ![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/donation/BTCCoin.png)
 
-## Банковские и платежные сервисы
+### Банковские и платежные сервисы
 
-💳 [Donationalerts](http://www.donationalerts.ru/r/tatarinovms)
+### 💳 Tinkoff 
 
-💳 [donate.stream](https://donate.stream/tatarinovms_donation)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/donation/TKSCard.png)
 
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/donation/donate_stream.png)
+[Банковская карта Tinkoff](https://www.tinkoff.ru/rm/tatarinov.maksim1/7PGUE43434/)
 
-💳 [YooMoney](https://yoomoney.ru/to/410013980054903) 
+### 💳 YooMoney
 
-💳 [Банковская карта на Tinkoff](https://www.tinkoff.ru/rm/tatarinov.maksim1/7PGUE43434/)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/donation/YooMoneyCard.png)
 
-💳 [Банковская карта на СберБанк](https://www.sberbank.com/ru/person/dl/jc?user_link=75QHc4YiKa31dLopx)
+### СБП 
 
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/donation/sber.png)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/donation/SBP.png)
 
 💳 [CloudTips](https://pay.cloudtips.ru/p/fdd4b52c)
 
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/donation/qrCode.png)
