@@ -34,6 +34,7 @@ permalink: /about/
 - [Github](https://github.com/tatarinovms)
 - [Twitter](https://twitter.com/tatarinovms)
 - [VK](https://vk.com/tatarinovms)
+- [Канал в Dzen](https://dzen.ru/beaverclan)
 - [linkedin](https://www.linkedin.com/in/tatarinovms/)
 - [TikTok](https://tiktok.com/@tatarinovms)
 - [FaceBook](https://www.facebook.com/people/Maxim-S-Tatarinov/100001079016303/)

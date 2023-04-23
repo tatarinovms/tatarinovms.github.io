@@ -52,7 +52,7 @@ TFRmcLSdRKjr5CbXreXkf46WQ9m2dCLRAx
 
 ![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/donation/YooMoneyCard.png)
 
-[YooMoney](https://yoomoney.ru/to/410013980054903) 
+💳 [YooMoney](https://yoomoney.ru/to/410013980054903) 
 
 ### СБП 
 
