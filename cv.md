@@ -17,9 +17,13 @@ permalink: /cv/
 
 ## Опыт работы 
 
+### Senior Testing Engineer 
+
+Апрель 2023г. - настоящее время
+
 ### Head of Technical Support Bureau
 
-Октябрь 2019 г. — настоящее время
+Октябрь 2019 г. — Апрель 2023г.
 
 ### QAD Testing Engineer
 
