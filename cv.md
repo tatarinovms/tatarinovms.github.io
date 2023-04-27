@@ -17,19 +17,19 @@ permalink: /cv/
 
 ## Опыт работы 
 
-### Senior Testing Engineer 
+### Senior Testing Engineer QA
 
 Апрель 2023г. - настоящее время
 
-### Head of Technical Support Bureau
+### Head of Technical Support Bureau in Retail Business Management
 
 Октябрь 2019 г. — Апрель 2023г.
 
-### QAD Testing Engineer
+### Testing Engineer QA
 
 Октябрь 2015 г. — Октябрь 2019 г.
 
-### Implementation Engineer / Product Support Engineer
+### Product Support Engineer
 
 Апрель 2014 г. — Октябрь 2015 г.
 
