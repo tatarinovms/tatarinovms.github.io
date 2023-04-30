@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Делаем свою "радиостанцию" в Telegram канале
+title: killport - убиваем процесс по сетевому порту
 tags: Telegram
 ---
 ![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/killport/logo.png)
