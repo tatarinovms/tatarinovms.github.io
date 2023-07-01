@@ -1,86 +1,79 @@
 ---
 layout: post
-title: Делаем свою "радиостанцию" в Telegram канале
+title: Как зарегистрировать TON Кошелек 
 tags: Telegram
 ---
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/TelegramRadio/logo.png)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/Ton/logo.png)
 
-Давно уже в телеграм каналах и чатах есть поддержка стриминга по протоколу rtmps, но стримить из OBS, как-то банально. Решил я замутить свою "радиостанцию", которая всегда будет онлайн и будет стримиться с виртуальной машины. 
+Как по мне самый удобный и самый "фичастый" TON кошелек это [Tonkeeper](https://tonkeeper.com/)
 
-Что нам нужно?
-- Linux машина (у меня VDS с Ubuntu)
-- Установленный ffmpeg
-- Контент для трансляции
+Из плюсов: простой и понятный интферфейс, поддержка NFT, поддержка бирж, поддержка TON DNS, жетоны в сети TON и т.д...
 
-### Подготовка
+#### Где скачать? 
 
-#### Устанавливаем FFMPEG
+### Android
 
-Если на вашей Linux машине еще нет ffmpeg, то нужно его поставить! 
+- [Google Play](https://play.google.com/store/apps/details?id=com.ton_keeper)
+- [APK](https://data2.ton.app/apk/tonkeeper.apk)
 
-<code>
-apt install ffmpeg
-<code>
+### iOS
 
-#### Создаем канал в Telegram
+[AppStore](https://apps.apple.com/us/app/tonkeeper/id1587742107)
 
-- Нажимаем создать Telegram канал, устанавливаем аватарку, даем имя
+### Web версия 
 
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/TelegramRadio/T1.png)
+[wallet.tonkeeper.com](https://wallet.tonkeeper.com/)
 
-#### Копируем ваш serverURL и stream Key
+### Как им пользоваться? 
 
-Для трансляции rtmps потока в стрим нам нужен ключ и сервер, забираем его из канала:
+- Устанавливаем Tonkeeper для вашей платформы
 
-- Переходим в канал и нажимаем Live Stream
+- Запускаем 
 
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/TelegramRadio/T1_2.png)
+- Следуем инструкциям
 
-- Выбираем Start With... 
+- Create new wallet
 
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/TelegramRadio/T1_3.png)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/Ton/1.png)
 
-- Копируем ваши serverURL и stream key:
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/Ton/2.png)
 
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/TelegramRadio/T1_4.png)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/Ton/3.png)
 
-### Начинаем трансляцию 
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/Ton/4_.png)
 
-Я буду делать стриминг всех песен с радиостанции VRock из игры Grand Theft Auto: Vice City, но вы можете использовать и ваш файл(ы) или ре-стримить трансляцию чужую.
+- Внимание! Запишите эти коды в месте в котором вы не потеряете, не забудете. Без этих слов вы не сможете востановить доступ к вашему кошельку. Очень внимательно отнеситесь к этим словам!
 
-#### Запускаем трансляцию
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/Ton/4.png)
 
-- Логинимся в вашу Linux машину
+- Вводим слова из очень важного списка
 
-- Готовим команду для запуска ffmpeg:
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/Ton/5.png)
 
-<code>
-ffmpeg -nostdin -hide_banner -nostats -loglevel panic -stream_loop -1 -re -i {путь к файлу для стриминга} -c:v libx264 -preset veryfast -b:v 3500k -maxrate 3500k -bufsize 5000k -pix_fmt yuv420p -g 50 -c:a aac -b:a 64k -ac 2 -ar 44100 -f flv {serverURL из Telegram}{stream key из Telegram}
-<code>
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/Ton/6.png)
 
-Получается вот такая команда:
+— Назначаем PIN для быстрого входа
 
-<code>
-ffmpeg -nostdin -hide_banner -nostats -loglevel panic -stream_loop -1 -re -i ./gtavc_vr_radio.mp4 -c:v libx264 -preset veryfast -b:v 3500k -maxrate 3500k -bufsize 5000k -pix_fmt yuv420p -g 50 -c:a aac -b:a 64k -ac 2 -ar 44100 -f flv rtmps://dc4-1.rtmp.t.me/s/1234567890:qwerty-asdfg_ZXCvc
-<code>
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/Ton/7.png)
 
-- Запускаем ffmpeg в фоне, чтобы он не выключился после закрытия консоли и работал в фоне:
+- Все кошелек готов к использованию. 
 
-<code>
-nohup ffmpeg -nostdin -hide_banner -nostats -loglevel panic -stream_loop -1 -re -i ./gtavc_vr_radio.mp4 -c:v libx264 -preset veryfast -b:v 3500k -maxrate 3500k -bufsize 5000k -pix_fmt yuv420p -g 50 -c:a aac -b:a 64k -ac 2 -ar 44100 -f flv rtmps://dc4-1.rtmp.t.me/s/1234567890:qwerty-asdfg_ZXCvc &
-<code>
+### Как пользоваться ? 
 
-#### Проверяем работу нашей трансляции
+#### Как получить монеты ? 
 
-- Переходим в созданный [наш Telegram канал](https://t.me/beaverclanradiogta) и нажимаем Join на Live Stream
+Нажимаем на Receive и видим ваш номер кошелька. 
 
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/TelegramRadio/T1_5.png)
+#### Как послать монеты
 
-- Слушаем станцию:
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/Ton/8.png)
 
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/TelegramRadio/T1_6.png)
+- Нажимаем на Send вводим номер кошелька в поле Adress(или сканируем qr code),нажимаем Continue
 
-- Пробуем с ПК: 
+- Вбиваем желаемое количество монет и нажимаем Conitune
 
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/TelegramRadio/T1_7.png)
+— Проверяем данные
+
+— Нажимаем Confirm and Send
+
 
