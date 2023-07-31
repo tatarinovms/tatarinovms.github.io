@@ -72,8 +72,8 @@ tags: Telegram
 
 - Вбиваем желаемое количество монет и нажимаем Conitune
 
-— Проверяем данные
+- Проверяем данные
 
-— Нажимаем Confirm and Send
+- Нажимаем Confirm and Send
 
 
