@@ -57,3 +57,7 @@ permalink: /about/
 
 - веду [Telegram канал](https://t.me/beaverclan)
 - если вы HR, вам можно почитать [Мой CV](https://blog.tatarinov.space/cv/)
+
+### NFT Token с аватаркой
+
+[ссылка](https://getgems.io/nft/EQDk3hMmrybDuVdR95BTYEPljtB2onljvRwASxlhtNn7zwf3)
