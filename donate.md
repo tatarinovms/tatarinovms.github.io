@@ -26,19 +26,6 @@ EQDMkn2UKpkSyZK7-OHipFJKTXlb2qfoIvnbX1TbofXXM2Sz
 
 ![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/donation/TonCoin.png)
 
-### 💎 USDT TRON (TRC20) 
-
-TFRmcLSdRKjr5CbXreXkf46WQ9m2dCLRAx
-
-⚠️ На этот адрес отправляйте только USDT TRON (TRC20). Другие монеты могут не дойти и будут утрачены.
-
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/donation/USDTCoin.png)
-
-### 💎 Bitcoin - BTC 
-
-17kVhQgZE2dD2DnYkPgQfYbbg6qngUcbDk
-
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/donation/BTCCoin.png)
 
 ### Банковские и платежные сервисы
 
