@@ -32,12 +32,9 @@ permalink: /about/
 ### Прочие места где мне можно написать или меня найти:
 
 - [Github](https://github.com/tatarinovms)
-- [Twitter](https://twitter.com/tatarinovms)
 - [VK](https://vk.com/tatarinovms)
 - [Канал в Dzen](https://dzen.ru/beaverclan)
-- [linkedin](https://www.linkedin.com/in/tatarinovms/)
-- [TikTok](https://tiktok.com/@tatarinovms)
-- [FaceBook](https://www.facebook.com/people/Maxim-S-Tatarinov/100001079016303/)
+- [Linkedin](https://www.linkedin.com/in/tatarinovms/)
 - [Ok.ru](https://ok.ru/tatarinovms)
 - [Reddit](https://www.reddit.com/user/tatarinovms)
 - [Pikabu](https://pikabu.ru/@tatarinovm)
@@ -51,7 +48,9 @@ permalink: /about/
 - [Steam](https://steamcommunity.com/id/tatarinovms/)
 - [Spotify](https://open.spotify.com/user/tatarinovms)
 - [Yandex.Music](https://music.yandex.com/users/tatarinovm.s/playlists)
-- [VSCO](https://vsco.co/tatarinovms)
+- [X](https://twitter.com/tatarinovms)
+- [FaceBook](https://www.facebook.com/people/Maxim-S-Tatarinov/100001079016303/)
+- [TikTok](https://tiktok.com/@tatarinovms)
 
 ### Прочие активности: 
 
