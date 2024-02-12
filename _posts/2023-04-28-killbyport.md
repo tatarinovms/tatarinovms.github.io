@@ -20,6 +20,9 @@ curl -sL https://bit.ly/killport | sh
 
 <code>
 brew tap jkfran/killport
+<code>
+
+<code>
 brew install killport
 <code>
 
