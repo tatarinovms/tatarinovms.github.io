@@ -1,50 +1,37 @@
 ---
 layout: post
-title: Настройка VPN сервера Outline
+title: Настройка Outline
 tags: cli brew vpn
 ---
 ![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/outline/logo.png)
 
-Простой способ поднять VPN сервер.
+Простой способ поднять сервер Outline.
 
 Для этого воспользуемся [Outline]((https://getoutline.org/en/home)). 
 
-Outline еще хорош тем, что он использует протокол Shadowsocks.
+Outline еще хорош тем, что он использует протокол "теневыеноски".
 
 ### Подготовка
-Нужна VPS на удобном вам сервисе в нужном вам регионе и на любом Linux.
-
-Если у вас нет сервера, и вы не дружите с Linux, то рекомендую вам в Outline Manager выбрать DigitalOcean. 
-
-Ваc проведут за руку и вы создадите VPS. 
-
-Самая дешевая VPS в DO стоит 5$ в месяц. 
-
-*P.S* можете воспользоваться промокодом на 100$ в DigitalOcean от [ подкаста radio-t]((https://radio-t.com/)), перейдите по ссылке http://do.co/radiot и зарегистрируйтесь. 
-
-Или зарегистрируйте VPS на провайдере, где живет моя VPS vdsina.ru.
-
-Ниже предоставлю вам мою реферельную [скидку-ссылку](https://vdsina.ru/?partner=rbc8le9r1g)
+Нужна VPS сеть на удобном вам сервисе рекомендую вам: vdsina.ru. Даже предоставлю вам мою реферельную [скидку-ссылку](https://vdsina.ru/?partner=rbc8le9r1g) вам скидка, мне немного монет. 
 
 ### Как сделать?
 
 ![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/outline/Screenshot-2020-05-27-at-17.08.07.png.jpg)
 
-- Скачиваем Outline Manager на ПК. Клиенты есть под [ Windows]((https://raw.githubusercontent.com/Jigsaw-Code/outline-releases/master/manager/stable/Outline-Manager.exe)), 
-[ MacOS]((https://raw.githubusercontent.com/Jigsaw-Code/outline-releases/master/manager/stable/Outline-Manager.dmg)),
-[Linux]((https://raw.githubusercontent.com/Jigsaw-Code/outline-releases/master/manager/stable/Outline-Manager.AppImage))
+- Скачиваем Outline Manager на ПК. Клиенты есть под:
+-[ Windows]((https://raw.githubusercontent.com/Jigsaw-Code/outline-releases/master/manager/stable/Outline-Manager.exe)), 
+
+-[ MacOS]((https://raw.githubusercontent.com/Jigsaw-Code/outline-releases/master/manager/stable/Outline-Manager.dmg)),
+
+-[Linux]((https://raw.githubusercontent.com/Jigsaw-Code/outline-releases/master/manager/stable/Outline-Manager.AppImage))
 
 - Запускаем Outline Manager 
 
 - Выбираем где находится ваша VPS, есть пресеты для DigitalOcean, Google Cloud Platform, Amazon, или как в моем случае — anywhere.
 
-1.png
-
 - Логинимся на вашу VPS по ssh, копируем команду из окна Outline Manager на установку сервера и выполняем ее на вашей VPS'ке
 
-2.png
-
--  Смотрим как выполняется скрипт установки, на выходе он даст нам результат установки и ключ, который нужно будет скопировать в Outline Manager
+-  Смотрим как выполняется скрипт установки, на выходе он даст нам результат установки и ключ, который нужно будет скопировать в Outline Manager:
 
 <code>
 > Verifying that Docker is installed .......... OK
@@ -91,21 +78,22 @@ CONGRATULATIONS! Your Outline server is up and running.
 
 - Вы восхитительны!
 
-Как создать ключ-ссылку для подключения клиента?
+### Как создать ключ-ссылку для подключения клиента?
 
 - В Outline Manager нажимаем Add new Key
+
 - Указываем удобное название ключа
+
 - При нажатии на кнопку Share у вас будет открываться окно с ссылкой, которая нам и пригодится для настройки подключения в клиенте.
 
 ![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/outline/Screenshot-2020-05-27-at-16.31.png)
 
-Как подключаться к VPN c пк и телефона?
+### Как подключаться к VPN c пк и телефона?
  ПК
 - Скачиваем клиент с [сайта]((https://s3.amazonaws.com/outline-vpn/invite.html#/en/home)) 
 
-Screenshot-2020-05-27-at-16.18.52.png.jpg
-
-Прямые ссылки: [Windows]((https://raw.githubusercontent.com/Jigsaw-Code/outline-releases/master/client/stable/Outline-Client.exe)), [MacOS]((https://itunes.apple.com/us/app/outline-app/id1356178125))
+Прямые ссылки: 
+- [Windows]((https://raw.githubusercontent.com/Jigsaw-Code/outline-releases/master/client/stable/Outline-Client.exe)), [MacOS]((https://itunes.apple.com/us/app/outline-app/id1356178125))
 
 - Устанавливаем и запускаем клиент
 
@@ -123,17 +111,21 @@ Screenshot-2020-05-27-at-16.18.52.png.jpg
 
 – Подключаемся 
 
-connect.png
-
 - Проверяем
+
 ![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/outline/Screenshot-2020-05-27-at-16.30.26.png)
 
 ### Вы восхитительны!
 
 ### Телефон
-- Скачиваем клиент [iOS]((https://itunes.apple.com/us/app/outline-app/id1356177741)), 
+- Скачиваем клиент:
+
+[iOS]((https://itunes.apple.com/us/app/outline-app/id1356177741)), 
+
 [Android](https://play.google.com/store/apps/details?id=org.outline.android.client)
+
 - Запускаем 
+
 - Открываем в браузере ссылку полученную на предыдущем шаге. Нажимаем "Подключить это устройство"
 
 ![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/outline/iOS1.jpg)

@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Поднимаем OpenVPN для роутера
+title: Поднимаем OpenВПН для роутера
 tags: MacOS
 ---
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/OpenVPN/logo.png)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/OpenВПН/logo.png)
 
-Интернеты всех страх окукливаются в рамках своих границ, но пока еще есть способы смотреть, качать, открывать благодаря VPNам. В данном посте я вам покажу как настроить VPN на вашем роутре. В моем роутере [AX5400 Wi-Fi 6 Router](https://www.tp-link.com/ru/home-networking/wifi-router/archer-ax73/) есть втроенный VPN клиент, он на многих роутреах есть в силу распростроненности протокола. 
+В данном посте я вам покажу как настроить ВПН на вашем роутре. В моем роутере [AX5400 Wi-Fi 6 Router](https://www.tp-link.com/ru/home-networking/wifi-router/archer-ax73/) есть втроенный ВПН клиент, он на многих роутреах есть в силу распростроненности протокола. 
 
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/OpenVPN/1.png)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/OpenВПН/1.png)
 
 ### Как сделать?
 
@@ -15,26 +15,26 @@ tags: MacOS
 
 - покупаем VPS
 
-- поднимаем OpenVPN 
+- поднимаем OpenВПН 
 
-- настраиваем OpenVPN на роутере
+- настраиваем OpenВПН на роутере
 
 #### Покупаем VPS  
 
 Выбор на ваш вкус. Любой сервис который работает и который вам нравится.
 
-#### Поднимаем OpenVPN
+#### Поднимаем OpenВПН
 
-Качаем и запускаем скрипт от [Nyr](https://github.com/tatarinovms/openvpn-install/commits?author=Nyr)
+Качаем и запускаем скрипт от [Nyr](https://github.com/tatarinovms/openВПН-install/commits?author=Nyr)
 
 <code>
-wget https://git.io/vpn -O openvpn-install.sh && bash openvpn-install.sh
+wget https://git.io/ВПН -O openВПН-install.sh && bash openВПН-install.sh
 <code> 
 
 Отвечаем на вопросы скрипта:
 
 <code>
-Which protocol should OpenVPN use?
+Which protocol should OpenВПН use?
    1) UDP (recommended)
    2) TCP
 <code>
@@ -42,7 +42,7 @@ Which protocol should OpenVPN use?
 - выбираем UDP
 
 <code>
-What port should OpenVPN listen to?
+What port should OpenВПН listen to?
 Port [1194]:
 <code>
 
@@ -69,7 +69,7 @@ Name [client]:
 - вводим имя для первого пользователя
 
 <code>
-OpenVPN installation is ready to begin.
+OpenВПН installation is ready to begin.
 Press any key to continue...
 <code>
 
@@ -81,21 +81,21 @@ Press any key to continue...
 ....
 Finished!
 
-The client configuration is available in: /root/blog.ovpn
+The client configuration is available in: /root/blog.oВПН
 
 <code>
 
 - это и есть нужный нам конфиг. Скачайте его через [scp](https://baks.dev/article/terminal/how-to-use-scp-command-to-securely-transfer-files), [sftp](https://www.digitalocean.com/community/tutorials/sftp-ru), просто скопируйте через cat себе в "блокнот"...кароче как-то добутьте файл c вируталки.
 
 
-#### Настраиваем OpenVPN на роутере
+#### Настраиваем OpenВПН на роутере
 
 - логинимся в вебморду роутера. У меня это 192.168.0.1 и вводим ваш пароль к роутеру
 
-- переходим в пункт OpenVPN client и нажимаем ADD
+- переходим в пункт OpenВПН client и нажимаем ADD
 
 - вводим название подключения (Description) и в секции Configuration File, выбираем и загружаем сохраненный вами конфиг ранее
 
-- в моем роутере еще есть настройка списка устройств (Device List) для которых трафик идет через VPN. Т.е мы можем выбрать устройство для которого будет "работать" OpenVPN. Очень удобная функция
+- в моем роутере еще есть настройка списка устройств (Device List) для которых трафик идет через ВПН. Т.е мы можем выбрать устройство для которого будет "работать" OpenВПН. Очень удобная функция
 
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/OpenVPN/2.png)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/OpenВПН/2.png)
