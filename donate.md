@@ -8,7 +8,7 @@ permalink: /donation/
 
 [Клан Боевых Бобров](https://t.me/beaverclan)
 
-[Блог](https://blog.tatarinovms.ru)
+[Блог](https://blog.tatarinov.space)
 
 [Instagram](http://instagram.com/tatarinovms)
 
