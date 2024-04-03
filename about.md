@@ -32,6 +32,7 @@ permalink: /about/
 ### Прочие места где мне можно написать или меня найти:
 
 - [Github](https://github.com/tatarinovms)
+- [GitVerse] (https://gitverse.ru/tatarinovms)
 - [VK](https://vk.com/tatarinovms)
 - [Канал в Dzen](https://dzen.ru/beaverclan)
 - [Linkedin](https://www.linkedin.com/in/tatarinovms/)
@@ -43,7 +44,6 @@ permalink: /about/
 - [Pinterest](http://pinterest.com/tatarinovms)
 - [4pda](http://4pda.ru/forum/index.php?showuser=639002)
 - [Юла](https://you.la/tatarinovms)
-- [Авито](https://www.avito.ru/user/8e51259bf92a1fde6c218f446de0124d/profile)
 - [PlayStation](https://my.playstation.com/profile/tatarinovms)
 - [Steam](https://steamcommunity.com/id/tatarinovms/)
 - [Spotify](https://open.spotify.com/user/tatarinovms)
