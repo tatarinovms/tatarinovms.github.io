@@ -73,7 +73,6 @@ localhost = 127.0.0.1
 Все ваши Rule и сам конфиг можно грузить и по URL:
 
 <code>
-# Shadowrocket: 2024-04-13 12:31:00
 [General]
 bypass-system = true
 skip-proxy = 127.0.0.1,10.0.0.0/8,localhost,*.local,captive.apple.com
