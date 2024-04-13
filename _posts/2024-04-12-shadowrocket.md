@@ -5,7 +5,7 @@ tags: MacOS
 ---
 ![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/ShadowRocket/logo.png)
 
-Shadowrocket - это прокси-клиент, основанный на правилах и маршрутизации. Он быстро стал универсальным и мощным прокси-инструментом, предназначенным для iOS-устройств.
+Shadowrocket - это прокси-клиент, основанный на правилах и маршрутизации. Очень гибкий клиент.
 
 ### Подготовка
 
@@ -40,7 +40,7 @@ fallback-dns-server = system
 
 [Rule]
 DOMAIN-SUFFIX,2ip.ru,Network_1
-DOMAIN-SUFFIX,ifconfig.me/,Network_2
+DOMAIN-SUFFIX,ifconfig.me,Network_2
 FINAL,DIRECT
 
 [Host]
@@ -84,7 +84,7 @@ update-url = https://blog.tatarinov.space/config.conf
 
 [Rule]
 RULE-SET,https://blog.tatarinov.space/externaladd.conf,Network_1
-DOMAIN-SUFFIX,ifconfig.me/,Network_2
+DOMAIN-SUFFIX,ifconfig.me,Network_2
 FINAL,DIRECT
 
 [Host]
@@ -93,4 +93,10 @@ localhost = 127.0.0.1
 
 - update-url в секции General у вас грузит и основляет ваш конфиг,
 - update-url в секции Rule у вас грузит и основляет ваш конфиг c правилами
+
+Конфиг который содержится в секции RULE и вы тянете его по сети, может выглядить так:
+
+<code>
+DOMAIN-SUFFIX,ifconfig.me
+<code>
 
