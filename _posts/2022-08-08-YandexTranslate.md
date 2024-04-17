@@ -10,7 +10,7 @@ tags: MacOS
 ### Установка
 
 - Установите расширение [Tampermonkey](https://www.tampermonkey.net/) Для Safari: [UserScripts](https://apps.apple.com/app/userscripts/id1463298887)
-- [Установите скрипт](https://raw.githubusercontent.com/ilyhalight/voice-over-translation/master/vot.user.js) в расширение Tampermonkey/UserScripts
+- [Установите скрипт](https://raw.githubusercontent.com/ilyhalight/voice-over-translation/master/dist/vot.user.js) в расширение Tampermonkey/UserScripts
 
 ### Использование
 

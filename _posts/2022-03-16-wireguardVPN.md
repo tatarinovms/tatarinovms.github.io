@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WireGuard VPN на вашей VDS
+title: WireGuard на вашей VDS
 ---
 ![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/WireGuard/logo.png)
 

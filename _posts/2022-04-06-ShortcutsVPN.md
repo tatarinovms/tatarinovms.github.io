@@ -5,14 +5,14 @@ tags: iOS
 ---
 ![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/ShortcutsVPN/logo.png)
 
-*если у вас iOS 16.4, то рекомендую к прочтению данный пост:[Автовключение VPN в iOS 16.4 через Shortcuts при запуске приложения](https://blog.tatarinov.space/iOS164VPN/) 
+*если у вас iOS 16.4, то рекомендую к прочтению данный пост:[Автовключение сетевого клиента в iOS 16.4 через Shortcuts при запуске приложения](https://blog.tatarinov.space/iOS164VPN/) 
 
 ### Как сделать?
 
 
-– Запускаем Wireguard VPN, подключаемся к вашему VPN
+– Запускаем Wireguard, подключаемся к вашему сетевому окружению
 
-– Открываем в браузере на телефоне адрес [ifconfig.co](https://ifconfig.co) чтобы узнать внешний IP адрес VPN'а. Запоминаем этот адрес
+– Открываем в браузере на телефоне адрес [ifconfig.co](https://ifconfig.co) чтобы узнать внешний IP адрес вашего сетевого окружения. Запоминаем этот адрес
 
 – Запускаем приложение Shortcuts
 
