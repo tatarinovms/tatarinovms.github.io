@@ -33,7 +33,7 @@ tags: MacOS
 - Домен, чтобы был SSl
 - Сервер (свой или VPS)
 - Docker с docker-compose 
-— [Caddy](https://caddyserver.com/)
+- [Caddy](https://caddyserver.com/)
 
 Что такое випиэска и докеры\шмокеры знает почти каждый, немного расскажу про [кэдди](https://timeweb.cloud/tutorials/servers/caddy-prostoj-i-legkij-reverse-proxy). 
 
