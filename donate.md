@@ -16,11 +16,20 @@ UQDMkn2UKpkSyZK7-OHipFJKTXlb2qfoIvnbX1TbofXXMzl2
 
 ![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/donation/TonCoin.png)
 
+
+### 💎 USDT TON 
+
+UQDMkn2UKpkSyZK7-OHipFJKTXlb2qfoIvnbX1TbofXXMzl2
+
+⚠️ Отправляйте только USDT TON на этот адрес. Другие активы, такие как жетоны или NFT, будут безвозвратно утрачены!
+
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/donation/USDTCoinTON.png)
+
 ### 💎 USDT TRON (TRC20) 
 
 TFRmcLSdRKjr5CbXreXkf46WQ9m2dCLRAx
 
-⚠️ На этот адрес отправляйте только USDT TRON (TRC20). Другие монеты могут не дойти и будут утрачены.
+⚠️ Отправляйте только USDT TRC20 на этот адрес. Другие активы, такие как жетоны или NFT, будут безвозвратно утрачены!
 
 ![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/donation/USDTCoin.png)
 
