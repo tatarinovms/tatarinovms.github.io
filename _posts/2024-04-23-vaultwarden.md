@@ -67,7 +67,6 @@ services:
     volumes:
       - /etc/localtime:/etc/localtime:ro
       - /srv/vaultwarden:/data
-
   caddy:
     image: caddy:2
     container_name: caddy
@@ -128,7 +127,6 @@ vim /srv/caddy/Caddyfile
       roll_keep 10
     }
   }
-  
   tls {$EMAIL}
   reverse_proxy /notifications/hub vaultwarden:3012
   reverse_proxy vaultwarden:80 {
