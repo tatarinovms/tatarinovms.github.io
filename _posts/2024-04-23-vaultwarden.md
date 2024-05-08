@@ -57,7 +57,8 @@ apt install docker.io docker-compose
 
 Создаем docker-compose.yml в удобном вам месте в любимом вашем текстовом редакторе с таким содержимым: 
 
-`version: "3"
+<code>
+version: "3"
 services:
   vaultwarden:
     image: vaultwarden/server:latest
@@ -81,7 +82,8 @@ services:
     environment:
       DOMAIN: "<yourdomain>"
       EMAIL: "<youremail>"
-      LOG_FILE: /srv/caddy/logs/access.log`
+      LOG_FILE: /srv/caddy/logs/access.log
+</code>
 
 Где  DOMAIN и EMAIL вам надо заполнить, для выпуска сертификата. Указываем например так: DOMAIN: "notbitwarden.tatar.beaver" и EMAIL: "noreplay@tatar.beaver"
 
