@@ -49,7 +49,7 @@ tags: MacOS
 
 <code>
 apt install docker.io docker-compose
-<code>
+</code>
 
 #### Создаем docker-compose.yml файл
 
