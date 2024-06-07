@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Запуск ВПН клиента без отсутствующей интеграции Shortcuts при старте Instagram
+title: Запуск клиента без отсутствующей интеграции Shortcuts при старте Instagram
 tags: iOS
 ---
 ![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/ShortcutsVPN/logo.png)
