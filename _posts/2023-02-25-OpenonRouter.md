@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Поднимаем OpenВПН для роутера
+title: Поднимаем Open*** для роутера
 tags: MacOS
 ---
 ![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/OpenВПН/logo.png)
 
-В данном посте я вам покажу как настроить ВПН на вашем роутре. В моем роутере [AX5400 Wi-Fi 6 Router](https://www.tp-link.com/ru/home-networking/wifi-router/archer-ax73/) есть втроенный ВПН клиент, он на многих роутреах есть в силу распростроненности протокола. 
+В данном посте я вам покажу как настроить *** на вашем роутре. В моем роутере [AX5400 Wi-Fi 6 Router](https://www.tp-link.com/ru/home-networking/wifi-router/archer-ax73/) есть втроенный ВПН клиент, он на многих роутреах есть в силу распростроненности протокола. 
 
 ![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/OpenВПН/1.png)
 
