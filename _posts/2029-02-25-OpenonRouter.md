@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Поднимаем Open*** для роутера
+title: Поднимаем Open{роскомнадзор} для роутера
 tags: MacOS
 ---
 ![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/OpenВПН/logo.png)
 
-В данном посте я вам покажу как настроить *** на вашем роутре. В моем роутере [AX5400 Wi-Fi 6 Router](https://www.tp-link.com/ru/home-networking/wifi-router/archer-ax73/) есть втроенный ВПН клиент, он на многих роутреах есть в силу распростроненности протокола. 
+В данном посте я вам покажу как настроить *** на вашем роутре. В моем роутере [AX5400 Wi-Fi 6 Router](https://www.tp-link.com/ru/home-networking/wifi-router/archer-ax73/) есть втроенный {роскомнадзор} клиент, он на многих роутерах есть, в силу распростроненности протокола. 
 
 ![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/OpenВПН/1.png)
 
@@ -25,16 +25,16 @@ tags: MacOS
 
 #### Поднимаем OpenВПН
 
-Качаем и запускаем скрипт от [Nyr](https://github.com/tatarinovms/openВПН-install/commits?author=Nyr)
+Качаем и запускаем скрипт от [Nyr](https://github.com/tatarinovms/openvpn-install/commits?author=Nyr)
 
 <code>
-wget https://git.io/ВПН -O openВПН-install.sh && bash openВПН-install.sh
+wget https://git.io/vpn -O openvpn-install.sh && bash openvpn-install.sh
 <code> 
 
 Отвечаем на вопросы скрипта:
 
 <code>
-Which protocol should OpenВПН use?
+Which protocol should Openvpn use?
    1) UDP (recommended)
    2) TCP
 <code>
