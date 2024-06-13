@@ -32,13 +32,13 @@ tags: MacOS
 
 ### Настройки
 
-По нажатию на ... доступны простые настройки: на какой вам язык переводить:
+По нажатию на ... доступны простые настройки, на какой вам язык переводить, или включить\выключить субтитры:
 
 ![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/yatranslate/settings.png)
 
-а если нажать на шестеренку, то попадаете в более подробные настройки.
+Если нажать на шестеренку, то попадаете в более подробные настройки:
 
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/yatranslate/addsettings.png
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/yatranslate/addsettings.png)
 
 
 
