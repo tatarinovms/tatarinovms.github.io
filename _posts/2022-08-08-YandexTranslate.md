@@ -25,4 +25,21 @@ tags: MacOS
 ### Использование
 
 - Включаем видео
+
 - Активируем на видео перевод по клику на кнопку
+
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/yatranslate/tr.png)
+
+### Настройки
+
+По нажатию на ... доступны простые настройки: на какой вам язык переводить:
+
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/yatranslate/settings.png)
+
+а если нажать на шестеренку, то попадаете в более подробные настройки.
+
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/yatranslate/addsettings.png
+
+
+
+
