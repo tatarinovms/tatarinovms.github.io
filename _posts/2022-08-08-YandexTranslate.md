@@ -20,6 +20,8 @@ tags: MacOS
  - Переходим в настройки расширений. Сделать это можно по ссылке: chrome://extensions или edge://extensions если у вас edge.
  - Активируем в верхнем правом углу переключатель Developer Mode
 
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/yatranslate/dm.png)
+
 ### Использование
 
 - Включаем видео
