@@ -10,9 +10,16 @@ tags: MacOS
 ### Установка
 
 - Установите расширение [Tampermonkey](https://www.tampermonkey.net/) Для Safari: [UserScripts](https://apps.apple.com/app/userscripts/id1463298887)
-- [Установите скрипт](https://raw.githubusercontent.com/ilyhalight/voice-over-translation/master/dist/vot.user.js) в расширение Tampermonkey/UserScripts
+- [Установите скрипт](https://raw.githubusercontent.com/ilyhalight/voice-over-translation/master/dist/vot-cloudflare.user.js) в расширение Tampermonkey/UserScripts
+
+ P.S После внедрения Manifest V3 в Chrome-based браузерах, необходимо для расширений включить Developer Mode. 
+ 
+ Делается это [просто](https://www.tampermonkey.net/faq.php#Q209):
+
+ - Переходим в настройки расширений. Сделать это можно по ссылке: chrome://extensions или edge://extensions если у вас edge.
+ - Активируем в верхнем правом углу переключатель Developer Mode
 
 ### Использование
 
 - Включаем видео
-- Активируем на видео перевод
+- Активируем на видео перевод по клику на кнопку
