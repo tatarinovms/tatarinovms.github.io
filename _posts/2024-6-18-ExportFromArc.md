@@ -3,7 +3,7 @@ layout: post
 title: Экспорт спейсов из браузера Arc в закладки
 tags: MacOS
 ---
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/acr/logo.png)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/arc/logo.png)
 
 В браузере Arc нет нативного способа экспорта ваших спейсов в "закладки" другого браузера. Т.е каждый спейс - папка в закладках. И как нам быть? Не вручную же копировать? 
 
@@ -27,5 +27,5 @@ curl -o main.py https://raw.githubusercontent.com/ivnvxd/arc-export/main/main.py
 
 Его уже суем в Firefox:
 
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/acr/2.png)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/arc/2.png)
 
