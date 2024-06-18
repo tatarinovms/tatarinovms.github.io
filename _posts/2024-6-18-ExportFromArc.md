@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Итоги WWDC 2024
+title: Экспорт спейсов из браузера Arc в закладки
 tags: MacOS
 ---
 ![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/acr/logo.png)
 
-В браузере Arc нет нативного способа экспорта ваших спейсов в "закладки" другого браузера. Т.е каждый спейс - папка в закладке. И как нам быть? Не вручную же копировать? 
+В браузере Arc нет нативного способа экспорта ваших спейсов в "закладки" другого браузера. Т.е каждый спейс - папка в закладках. И как нам быть? Не вручную же копировать? 
 
 ### Что нам надо ? 
 
-- MacOS
+- МакОсь
 - Установленный питон
-- Сам браузер Arc
+- Браузер Арк
 - Скрипт от [ivnvxd](https://github.com/ivnvxd/)
 
 ### Как нам надо? 
@@ -25,7 +25,7 @@ curl -o main.py https://raw.githubusercontent.com/ivnvxd/arc-export/main/main.py
 
 На выходе у нас получается файл: arc_bookmarks_2024_01_01.html 
 
-B его уже суем в Firefox:
+Его уже суем в Firefox:
 
 ![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/acr/2.png)
 
