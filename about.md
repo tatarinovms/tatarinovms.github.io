@@ -38,6 +38,7 @@ permalink: /about/
 - [Reddit](https://www.reddit.com/user/tatarinovms)
 - [Pikabu](https://pikabu.ru/@tatarinovm)
 - [Twitch](https://www.twitch.tv/tatarinovm)
+- [Сетка](https://setka.ru/accounts/47791)
 - [Youtube](https://www.youtube.com/c/MaximTatarinov)
 - [Pinterest](http://pinterest.com/tatarinovms)
 - [4pda](http://4pda.ru/forum/index.php?showuser=639002)
