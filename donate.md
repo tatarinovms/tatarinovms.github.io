@@ -42,7 +42,7 @@ TFRmcLSdRKjr5CbXreXkf46WQ9m2dCLRAx
 
 ### Банковские и платежные сервисы
 
-### 💳 Tinkoff 
+### 💳 T-Bank 
 
 ![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/donation/TKSCard.png)
 
