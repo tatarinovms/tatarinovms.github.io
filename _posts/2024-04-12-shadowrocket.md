@@ -21,29 +21,27 @@ Shadowrocket - это прокси-клиент, основанный на пр�
 
 — Открываем вкладку Config, жмем на + и добавляем ссылку на мой пример конфига в поле Download from URL и скачиваем мою рыбу:
 
-<code>
-https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/ShadowRocket/fish.conf
-<code>
+
+`https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/ShadowRocket/fish.conf`
 
 ![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/ShadowRocket/1.png)
 
 
 Рыба содержит вот такую заготовку: 
 
-<code>
-[General]
-bypass-system = true
-skip-proxy = 127.0.0.1,10.0.0.0/8,localhost,*.local,captive.apple.com
-bypass-tun = 10.0.0.0/8, 100.64.0.0/10, 127.0.0.0/8, 169.254.0.0/16, 172.16.0.0/12, 192.0.0.0/24, 192.0.2.0/24, 192.88.99.0/24, 192.168.0.0/16, 198.18.0.0/15, 198.51.100.0/24, 203.0.113.0/24, 224.0.0.0/4, 255.255.255.255/32
-dns-server = 1.1.1.1,8.8.8.8
-fallback-dns-server = system
-[Rule]
-DOMAIN-SUFFIX,2ip.ru,Network_1
-DOMAIN-SUFFIX,ifconfig.me,Network_2
-FINAL,DIRECT
-[Host]
-localhost = 127.0.0.1
-<code>
+`[General]`
+`bypass-system = true`
+`skip-proxy = 127.0.0.1,10.0.0.0/8,localhost,*.local,captive.apple.com`
+`bypass-tun = 10.0.0.0/8, 100.64.0.0/10, 127.0.0.0/8, 169.254.0.0/16, 172.16.0.0/12, 192.0.0.0/24, 192.0.2.0/24, 192.88.99.0/24,` `192.168.0.0/16, 198.18.0.0/15, 198.51.100.0/24, 203.0.113.0/24, 224.0.0.0/4, 255.255.255.255/32`
+`dns-server = 1.1.1.1,8.8.8.8`
+`fallback-dns-server = system`
+`[Rule]`
+`DOMAIN-SUFFIX,2ip.ru,Network_1`
+`DOMAIN-SUFFIX,ifconfig.me,Network_2`
+`FINAL,DIRECT`
+`[Host]`
+`localhost = 127.0.0.1`
+
 
 — Открываем на редактирование нажимаем на ! 
 
@@ -67,21 +65,20 @@ localhost = 127.0.0.1
 ### Задача со звездочкой 
 
 Чтобы вам проще вести списки, можно их грузить онлайн, ваш конфиг может выглядить так:
-<code>
-[General]
-bypass-system = true
-skip-proxy = 127.0.0.1,10.0.0.0/8,localhost,*.local,captive.apple.com
-bypass-tun = 10.0.0.0/8, 100.64.0.0/10, 127.0.0.0/8, 169.254.0.0/16, 172.16.0.0/12, 192.0.0.0/24, 192.0.2.0/24, 192.88.99.0/24, 192.168.0.0/16, 198.18.0.0/15, 198.51.100.0/24, 203.0.113.0/24, 224.0.0.0/4, 255.255.255.255/32
-dns-server = 1.1.1.1,8.8.8.8
-fallback-dns-server = system
-update-url = https://blog.tatarinov.space/config.conf
-[Rule]
-RULE-SET,https://blog.tatarinov.space/externaladd.conf,Network_1
-DOMAIN-SUFFIX,ifconfig.me,Network_2
-FINAL,DIRECT
-[Host]
-localhost = 127.0.0.1
-<code>
+
+`[General]`
+`bypass-system = true`
+`skip-proxy = 127.0.0.1,10.0.0.0/8,localhost,*.local,captive.apple.com`
+`bypass-tun = 10.0.0.0/8, 100.64.0.0/10, 127.0.0.0/8, 169.254.0.0/16, 172.16.0.0/12, 192.0.0.0/24, 192.0.2.0/24, 192.88.99.0/24,` `192.168.0.0/16, 198.18.0.0/15, 198.51.100.0/24, 203.0.113.0/24, 224.0.0.0/4, 255.255.255.255/32`
+`dns-server = 1.1.1.1,8.8.8.8`
+`fallback-dns-server = system`
+`update-url = https://blog.tatarinov.space/config.conf`
+`[Rule]`
+`RULE-SET,https://blog.tatarinov.space/externaladd.conf,Network_1`
+`DOMAIN-SUFFIX,ifconfig.me,Network_2`
+`FINAL,DIRECT`
+`[Host]`
+`localhost = 127.0.0.1`
 
 - update-url в секции General у вас грузит и обновляет ваш основной конфиг,
 - update-url в секции Rule у вас грузит и обновляет ваш конфиг c правилами
