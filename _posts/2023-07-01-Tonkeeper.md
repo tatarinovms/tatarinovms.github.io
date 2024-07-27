@@ -3,7 +3,7 @@ layout: post
 title: Как зарегистрировать TON Кошелек 
 tags: Telegram
 ---
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/Ton/logo.png)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/Ton/logo.webp)
 
 Как по мне самый удобный и самый "фичастый" TON кошелек это [Tonkeeper](https://tonkeeper.com/)
 
@@ -34,27 +34,27 @@ tags: Telegram
 
 - Create new wallet
 
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/Ton/1.png)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/Ton/1.webp)
 
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/Ton/2.png)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/Ton/2.webp)
 
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/Ton/3.png)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/Ton/3.webp)
 
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/Ton/4_.png)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/Ton/4_.webp)
 
 - Внимание! Запишите эти коды в месте в котором вы не потеряете, не забудете. Без этих слов вы не сможете востановить доступ к вашему кошельку. Очень внимательно отнеситесь к этим словам!
 
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/Ton/4.png)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/Ton/4.webp)
 
 - Вводим слова из очень важного списка
 
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/Ton/5.png)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/Ton/5.webp)
 
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/Ton/6.png)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/Ton/6.webp)
 
 — Назначаем PIN для быстрого входа
 
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/Ton/7.png)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/Ton/7.webp)
 
 - Все кошелек готов к использованию. 
 
@@ -66,7 +66,7 @@ tags: Telegram
 
 #### Как послать монеты
 
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/Ton/8.png)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/Ton/8.webp)
 
 - Нажимаем на Send вводим номер кошелька в поле Adress(или сканируем qr code),нажимаем Continue
 

@@ -1,0 +1,1 @@
+ffmpeg -nostdin -hide_banner -nostats -loglevel panic -stream_loop -1 -re -i {путь к файлу для стриминга} -c:v libx264 -preset veryfast -b:v 3500k -maxrate 3500k -bufsize 5000k -pix_fmt yuv420p -g 50 -c:a aac -b:a 64k -ac 2 -ar 44100 -f flv {serverURL из Telegram}{stream key из Telegram}

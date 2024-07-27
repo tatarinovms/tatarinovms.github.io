@@ -3,7 +3,7 @@ layout: post
 title: Как просто скачать видео с запароленного Zoom'инара ?
 tags: MacOS
 ---
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/zoom/logo.png)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/zoom/logo.webp)
 
 ### Что имеем? 
 
@@ -21,22 +21,22 @@ P.S Расширение осталось только для браузера O
 
 - После установки расширения в браузер, переходим по ссылке на Zoom'инар в браузере
 
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/zoom/z1.png)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/zoom/z1.webp)
 
 - Вводим пароль
 
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/zoom/z2.png)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/zoom/z2.webp)
 
 - Активируем расширение 
 
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/zoom/z2.1.png)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/zoom/z2.1.webp)
 
 - Нажимаем второй кнопкой мыши на видео и выбираем пункт Save video As...
 
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/zoom/z3.png)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/zoom/z3.webp)
 
 - Сохраняем видео в удобную вам папку
 
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/zoom/z4.png)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/zoom/z4.webp)
 
 ### Вы восхитетельны!

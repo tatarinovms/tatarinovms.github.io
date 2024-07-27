@@ -3,7 +3,7 @@ layout: post
 title: Модифицированный Youtube клиент для iOS
 tags: iOS, Yandex
 ---
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/Youtube/logo.jpeg)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/Youtube/logo.webp)
 
 Как мы знаем нормально оплатить Youtube Premium для  аккаунтов проблематично, но очень уж я привык к скачиванию роликов или звука из видео, фоновому воспроизведению и всплывающим окошкам YouTube.
 
@@ -19,13 +19,13 @@ tags: iOS, Yandex
 
 Mail Plug-in актируется в MacOS в настройках приложении Mail.app. Проверьте чтобы галочка была установлена.
 
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/Youtube/mail_app_plug.png)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/Youtube/mail_app_plug.webp)
 
 - Качаем ipa файл [YT 17.15.1_Cercube](https://disk.yandex.ru/d/IfEuuH_GF9_vUg) прям на устройстве
 
 - Открываем ipa файл и "расшариваем" его в AltStore
 
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/Youtube/sharealt.jpg)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/Youtube/sharealt.webp)
 
 - Ждем окончания импорта
 

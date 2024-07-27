@@ -2,7 +2,7 @@
 layout: post
 title: Создание вашей визитки в NFC Tag
 ---
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/nfc/logo.png)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/vcard/logo.webp)
 
 Увидел рекламу сервиса в сториз инстаграм, который продает клейкую NFC метку со ссылкой на вашу анкету и якобы она упростит  способом делится вашим контактом с пользователями. Они просто сканируют вашу метку и вуаля..такая вот визитка 21ого века.
 
@@ -17,7 +17,7 @@ P.S Конечно в NFC метку можно записать и контак
 - Создаем страницу с вашими контактами и ссылками на ресурсы где вас можно найти. Например как моя about [страница](https://blog.tatarinovms.ru/about)
 - Покупаем на Ali самые дешевые перезаписываемые метки (можно  "одноразовые", так даже дешевле выйдет). Я брал [такие](https://aliexpress.ru/item/4000481520248.html)
 
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/vcard/vlenta.png)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/vcard/vlenta.webp)
 
 - Создаем vCard для удобства добавления вас в справочник. Можно воспользоваться экспортом из приложения Contacts на MacOS или сделать vCard на [сайте](https://vcardmaker.com), сделать экспорт из GMail, способов много, даже взять стандарт [vCard](https://tools.ietf.org/pdf/rfc6350.pdf) и заполним все поля вручную.
 
@@ -28,11 +28,11 @@ P.S Если делаете файл аватарки в Base64, то конве
 Для iPhone использую утилиту [NFC Tools](https://apps.apple.com/us/app/nfc-tools/id1252962749)
 - Для метки на нашу about страничку:
 
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/vcard/write_about.png)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/vcard/write_about.webp)
 
 - Для метки c ссылкой на vCard:
 
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/vcard/write_vcard.png)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/vcard/write_vcard.webp)
 
 
 ### Проверяем работу

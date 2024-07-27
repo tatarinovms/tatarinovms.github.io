@@ -3,13 +3,16 @@ layout: post
 title: Делаем свою "радиостанцию" в Telegram канале
 tags: Telegram
 ---
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/TelegramRadio/logo.png)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/TelegramRadio/logo.webp)
 
 Давно уже в телеграм каналах и чатах есть поддержка стриминга по протоколу rtmps, но стримить из OBS, как-то банально. Решил я замутить свою "радиостанцию", которая всегда будет онлайн и будет стримиться с виртуальной машины. 
 
-Что нам нужно?
+### Что нам нужно?
+
 - Linux машина (у меня VDS с Ubuntu)
+
 - Установленный ffmpeg
+
 - Контент для трансляции
 
 ### Подготовка
@@ -18,15 +21,13 @@ tags: Telegram
 
 Если на вашей Linux машине еще нет ffmpeg, то нужно его поставить! 
 
-<code>
-apt install ffmpeg
-<code>
+`apt install ffmpeg`
 
 #### Создаем канал в Telegram
 
 - Нажимаем создать Telegram канал, устанавливаем аватарку, даем имя
 
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/TelegramRadio/T1.png)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/TelegramRadio/T1.webp)
 
 #### Копируем ваш serverURL и stream Key
 
@@ -34,15 +35,15 @@ apt install ffmpeg
 
 - Переходим в канал и нажимаем Live Stream
 
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/TelegramRadio/T1_2.png)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/TelegramRadio/T1_2.webp)
 
 - Выбираем Start With... 
 
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/TelegramRadio/T1_3.png)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/TelegramRadio/T1_3.webp)
 
 - Копируем ваши serverURL и stream key:
 
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/TelegramRadio/T1_4.png)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/TelegramRadio/T1_4.webp)
 
 ### Начинаем трансляцию 
 
@@ -52,35 +53,25 @@ apt install ffmpeg
 
 - Логинимся в вашу Linux машину
 
-- Готовим команду для запуска ffmpeg:
+- Готовим команду для запуска ffmpeg и получается вот такая команда:
 
-<code>
-ffmpeg -nostdin -hide_banner -nostats -loglevel panic -stream_loop -1 -re -i {путь к файлу для стриминга} -c:v libx264 -preset veryfast -b:v 3500k -maxrate 3500k -bufsize 5000k -pix_fmt yuv420p -g 50 -c:a aac -b:a 64k -ac 2 -ar 44100 -f flv {serverURL из Telegram}{stream key из Telegram}
-<code>
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/TelegramRadio/command.webp)
 
-Получается вот такая команда:
+[Скачать пример](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/scripts/TelegramRadio/command.txt)
 
-<code>
-ffmpeg -nostdin -hide_banner -nostats -loglevel panic -stream_loop -1 -re -i ./gtavc_vr_radio.mp4 -c:v libx264 -preset veryfast -b:v 3500k -maxrate 3500k -bufsize 5000k -pix_fmt yuv420p -g 50 -c:a aac -b:a 64k -ac 2 -ar 44100 -f flv rtmps://dc4-1.rtmp.t.me/s/1234567890:qwerty-asdfg_ZXCvc
-<code>
+- Запускаем ffmpeg в фоне, чтобы он не выключился после закрытия консоли и работал в фоне, для этого просто добавим символ &
 
-- Запускаем ffmpeg в фоне, чтобы он не выключился после закрытия консоли и работал в фоне:
-
-<code>
-nohup ffmpeg -nostdin -hide_banner -nostats -loglevel panic -stream_loop -1 -re -i ./gtavc_vr_radio.mp4 -c:v libx264 -preset veryfast -b:v 3500k -maxrate 3500k -bufsize 5000k -pix_fmt yuv420p -g 50 -c:a aac -b:a 64k -ac 2 -ar 44100 -f flv rtmps://dc4-1.rtmp.t.me/s/1234567890:qwerty-asdfg_ZXCvc &
-<code>
-
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/TelegramRadio/commandend.webp)
 #### Проверяем работу нашей трансляции
 
 - Переходим в созданный [наш Telegram канал](https://t.me/beaverclanradiogta) и нажимаем Join на Live Stream
 
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/TelegramRadio/T1_5.png)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/TelegramRadio/T1_5.webp)
 
 - Слушаем станцию:
 
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/TelegramRadio/T1_6.png)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/TelegramRadio/T1_6.webp)
 
 - Пробуем с ПК: 
 
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/TelegramRadio/T1_7.png)
-
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/TelegramRadio/T1_7.webp)

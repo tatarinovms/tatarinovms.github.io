@@ -4,7 +4,7 @@ title: Быстрый запуск Android эмулятора на MacOS
 tags: MacOS
 ---
 
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/EmulAndroid/logo.png)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/EmulAndroid/logo.webp)
 
 Часто пользуюсь эмулятором из Android Studio, и решил сделать его запуск более удобным. Как вы знаете консоль у меня всегда под рукой, поэтому сделаем удобный запуск эмулятора прямо из консоли.
 
@@ -12,24 +12,19 @@ tags: MacOS
 
 - необходимо отредактировать файл ~/.zshrc , я это делаю через vim
 
-<code>
-vim ~/.zshrc
-<code>
+`vim ~/.zshrc`
 
 - Добавляем в PATH путь к программе emulator
 
-<code>
-export PATH="/Users/anonname/Library/Android/sdk/emulator:$PATH"
-<code>
+`export PATH="/Users/anonname/Library/Android/sdk/emulator:$PATH"`
 
 где вместо anonname, ваше имя пользователя.
 
 - Для того чтобы не выполнять длинную команду emulator -bla-bla, добавим alias 
 
-<code>
-alias emulls="emulator -list-avds"
-alias emulrun="emulator -avd"
-<code>
+`alias emulls="emulator -list-avds"`
+
+`alias emulrun="emulator -avd"`
 
 - сохраняем изменения в файле ~/.zshrc 
 

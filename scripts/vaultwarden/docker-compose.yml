@@ -1,0 +1,25 @@
+version: "3"
+services:
+  vaultwarden:
+    image: vaultwarden/server:latest
+    container_name: vaultwarden
+    restart: always
+    volumes:
+      - /etc/localtime:/etc/localtime:ro
+      - /srv/vaultwarden:/data
+  caddy:
+    image: caddy:2
+    container_name: caddy
+    restart: always
+    ports:
+      - 80:80
+      - 443:443
+    volumes:
+      - /srv/caddy/Caddyfile:/etc/caddy/Caddyfile:ro
+      - /srv/caddy/config:/config
+      - /srv/caddy/data:/data
+      - /srv/caddy/logs:/logs
+    environment:
+      DOMAIN: "<yourdomain>"
+      EMAIL: "<youremail>"
+      LOG_FILE: /srv/caddy/logs/access.log

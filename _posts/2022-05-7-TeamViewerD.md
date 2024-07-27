@@ -3,9 +3,9 @@ layout: post
 title: Аналог TeamViewer - rustdesk
 tags: soft, macos, linux, windows
 ---
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/rustdesk/logo.png)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/rustdesk/logo.webp)
 
-На фоне новостей о том что TeamViewer перестает работать с Россией решил выбрать его аналог, хотя для частного использования они не закрыты, но лично у меня был неприятный момент когда меня из-за частой помощи людям TeamViewer заподозрил в комерчиской деятельности и ограничивал мне продолжительсть сессии в 5 минут. Искал среди простого и удобного клиента, чтобы им могла пользоваться ваша бабушка. 
+На фоне новостей о том что TeamViewer перестает работать в некоторых странах решил выбрать его аналог, хотя для частного использования они не закрыты, но лично у меня был неприятный момент когда меня из-за частой помощи людям TeamViewer заподозрил в комерчиской деятельности и ограничивал мне продолжительсть сессии в 5 минут. Искал среди простого и удобного клиента, чтобы им могла пользоваться ваша бабушка. 
 
 Нашел — [rustdesk](https://rustdesk.com/)
 
@@ -28,7 +28,7 @@ tags: soft, macos, linux, windows
 
 Все как в TeamViewer.
 
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/rustdesk/win.png)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/rustdesk/win.webp)
 
 ## Подключаемся
 
@@ -36,9 +36,9 @@ tags: soft, macos, linux, windows
 
 ### C ПК
 
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/rustdesk/connectmac.png)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/rustdesk/connectmac.webp)
 
 ### С телефона
 
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/rustdesk/ios.png)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/rustdesk/ios.webp)
 

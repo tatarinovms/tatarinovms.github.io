@@ -3,7 +3,7 @@ layout: post
 title: Подключение Yandex.Disk по WebDav
 tags: iOS, Yandex 
 ---
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/YandexWebDav/logo.png)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/YandexWebDav/logo.webp)
 
 Краткий гайд, как подключить YandexDisk по протоколу WebDav.
 
@@ -15,15 +15,15 @@ Yandex рекомендует создать отдельный пароль д�
 
 ### Подключаем Yandex по WebDav в приложении
 
-– Запускаем приложение в котором есть WebDav клиент. В моем случае это [Documents by Readdle](https://apps.apple.com/us/app/documents-by-readdle/id364901807) для iPadOS
+- Запускаем приложение в котором есть WebDav клиент. В моем случае это [Documents by Readdle](https://apps.apple.com/us/app/documents-by-readdle/id364901807) для iPadOS
 
-– Выбираем WebDav Server
+- Выбираем WebDav Server
 
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/webdav/select.jpeg)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/YandexWebDav/select.webp)
 
-– Вводим параметры для подключения:
+- Вводим параметры для подключения:
 
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/webdav/input.png)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/YandexWebDav/input.webp)
 
 Title: Название коннекта
 
@@ -35,6 +35,6 @@ Password: ваш сгенерированный пароль для прилож
 
 — Открываем созданное подключение
 
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/webdav/connect.png)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/YandexWebDav/connect.webp)
 
 ### Готово

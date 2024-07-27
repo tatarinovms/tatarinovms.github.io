@@ -3,7 +3,7 @@ layout: post
 title: Скачиваем стикеры и эмодзи в Telegram
 tags: MacOS
 ---
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/DTelegram/logo.png)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/DTelegram/logo.webp)
 
 Иногда чтобы, сделать свой стикерпак или эмодзипак или просто картинка понравилась,  хочется...подворовать чей-то хороший стикер/эмодзи. Обычным способом это сложно сделать, но и для этой операции в Telegram есть боты. 
 
@@ -13,7 +13,7 @@ tags: MacOS
 
 ### Статичный стикер
 
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/DTelegram/stat_stiker.png)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/DTelegram/stat_stiker.webp)
 
 Для статичного стикера, после работы бота нам доступны для скачивания:
 
@@ -25,7 +25,7 @@ tags: MacOS
 
 ### Анимированный стикер
 
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/DTelegram/anim_stiker.png)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/DTelegram/anim_stiker.webp)
 
 Для анимированного стикера, после работы бота нам доступны для скачивания:
 
@@ -41,7 +41,7 @@ tags: MacOS
 
 ### Статичный эмодзи
 
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/DTelegram/stat_emoji.png)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/DTelegram/stat_emoji.webp)
 
 Для статичного эмодзи, после работы бота нам доступны для скачивания:
 
@@ -53,7 +53,7 @@ tags: MacOS
 
 ### Анимированный эмодзи
 
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/DTelegram/anim_emoji.png)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/DTelegram/anim_emoji.webp)
 
 Для анимированного эмодзи, после работы бота нам доступны для скачивания:
 

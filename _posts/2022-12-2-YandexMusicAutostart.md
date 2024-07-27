@@ -3,7 +3,7 @@ layout: post
 title: Автоматический запуск My Vibe в Яндекс.Музыке при подключении к автомагнитоле
 tags: MacOS
 ---
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/YMA/logo.png)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/YMA/logo.webp)
 
 ### Что имеем? 
 

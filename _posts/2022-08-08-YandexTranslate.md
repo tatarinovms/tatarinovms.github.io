@@ -3,7 +3,7 @@ layout: post
 title: Перевод видео от Yandex в любом браузере
 tags: MacOS
 ---
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/yatranslate/logo.png)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/yatranslate/logo.webp)
 
 У Yandex имеется крутая технология перевода видео на русский язык. Она работает только в Yandex.Browser, но есть способо установить его в любой ваш любимый браузер. Активировать эту функцию можно через Tampermonkey
 
@@ -20,7 +20,7 @@ tags: MacOS
  - Переходим в настройки расширений. Сделать это можно по ссылке: chrome://extensions или edge://extensions если у вас edge.
  - Активируем в верхнем правом углу переключатель Developer Mode
 
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/yatranslate/dm.png)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/yatranslate/dm.webp)
 
 ### Использование
 
@@ -28,17 +28,17 @@ tags: MacOS
 
 - Активируем на видео перевод по клику на кнопку
 
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/yatranslate/tr.png)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/yatranslate/tr.webp)
 
 ### Настройки
 
 По нажатию на ... доступны простые настройки, на какой вам язык переводить, или включить\выключить субтитры:
 
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/yatranslate/settings.png)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/yatranslate/settings.webp)
 
 Если нажать на шестеренку, то попадаете в более подробные настройки:
 
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/yatranslate/addsettings.png)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/yatranslate/addsettings.webp)
 
 
 

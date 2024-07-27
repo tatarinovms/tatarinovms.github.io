@@ -3,7 +3,7 @@ layout: post
 title: Экспортируем iOS Memoji для создания стикеров в Telegram
 tags: MacOS
 ---
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/memojistickers/logo.png)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/memojistickers/logo.webp)
 
 В iOS 13 появились Memoji‐стикеры — наборы картинок, сгенерированных по шаблону эмодзи, но с пользовательским аватаром вместо стандартных желтых человечков.
 
@@ -11,7 +11,7 @@ tags: MacOS
 
 ### Как сделать?
 
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/memojistickers/1.jpg)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/memojistickers/1.webp)
 
 - открываем клавиатуру iOS
 

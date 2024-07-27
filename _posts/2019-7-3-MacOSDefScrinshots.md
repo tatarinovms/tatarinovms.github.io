@@ -3,7 +3,7 @@ layout: post
 title: Изменение папки для скриншотов в МакОС
 tags: cli macos
 ---
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/scr/logo.png)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/scr/logo.webp)
 
 Привет.
 Мне не нравится, что папка по умолчанию для скриншотов в МакОС это рабочий стол, после долго использования рабочий стол превращается в помойку. Путь папки можно изменить.

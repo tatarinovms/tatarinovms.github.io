@@ -3,7 +3,7 @@ layout: post
 title: Vaultwarden - свой сервер для Bitwarden клиента
 tags: MacOS
 ---
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/vaultwarden/logo.png)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/vaultwarden/logo.webp)
 
 ### Предыстория
 
@@ -47,9 +47,7 @@ tags: MacOS
 
 Ставим, если еще нет. На убунту делается так:
 
-<code>
-apt install docker.io docker-compose
-</code>
+`apt install docker.io docker-compose`
 
 #### Создаем docker-compose.yml файл
 
@@ -57,36 +55,15 @@ apt install docker.io docker-compose
 
 Создаем docker-compose.yml в удобном вам месте в любимом вашем текстовом редакторе с таким содержимым: 
 
-<code>
-version: "3"
-services:
-  vaultwarden:
-    image: vaultwarden/server:latest
-    container_name: vaultwarden
-    restart: always
-    volumes:
-      - /etc/localtime:/etc/localtime:ro
-      - /srv/vaultwarden:/data
-  caddy:
-    image: caddy:2
-    container_name: caddy
-    restart: always
-    ports:
-      - 80:80
-      - 443:443
-    volumes:
-      - /srv/caddy/Caddyfile:/etc/caddy/Caddyfile:ro
-      - /srv/caddy/config:/config
-      - /srv/caddy/data:/data
-      - /srv/caddy/logs:/logs
-    environment:
-      DOMAIN: "<yourdomain>"
-      EMAIL: "<youremail>"
-      LOG_FILE: /srv/caddy/logs/access.log
-</code>
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/vaultwarden/docker-compose.yml.webp)
 
-Где  DOMAIN и EMAIL вам надо заполнить, для выпуска сертификата. Указываем например так: DOMAIN: "notbitwarden.tatar.beaver" и EMAIL: "noreplay@tatar.beaver"
+[Скачать файл](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/scripts/vaultwarden/docker-compose.yml)
 
+Где  DOMAIN и EMAIL вам надо заполнить, для выпуска сертификата. Указываем например так: 
+
+`DOMAIN: "notbitwarden.tatar.beaver"`
+
+`EMAIL: "noreplay@tatar.beaver"`
 
 ##### Немного поясню 
 
@@ -106,34 +83,17 @@ services:
 
 Создаем папку: 
 
-<code>
-sudo mkdir /srv/caddy
-<code>
+`sudo mkdir /srv/caddy`
 
 создаем Caddyfile в вашем любимом текстовом редакторе: 
 
-<code>
-vim /srv/caddy/Caddyfile
-<code>
+`vim /srv/caddy/Caddyfile`
 
 с таким содержимым: 
 
-<code>
-{$DOMAIN}:443 {
-  log {
-    output file {$LOG_FILE} {
-      roll_size 10MB
-      roll_keep 10
-    }
-  }
-  tls {$EMAIL}
-  reverse_proxy /notifications/hub vaultwarden:3012
-  reverse_proxy vaultwarden:80 {
-    header_up X-Real-IP {remote_host}
-  }
-}
-<code>
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/vaultwarden/Caddyfile.webp)
 
+[Скачать файл](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/scripts/vaultwarden/Caddyfile)
 
 ##### Немного поясню 
 
@@ -155,20 +115,15 @@ reverse_proxy [чо][куда]:
 
 - в каталоге где у нас лежит docker-compose.yml выполняем:
 
-<code>
-sudo docker-compose up -d
-<code>
+`sudo docker-compose up -d`
 
 - ждем
 
 — проверяем что все работает, выполняем: 
 
-<code>
-sudo docker ps
-<code>
+`sudo docker ps`
 
 В ответе будут наши контейнерны с именами: caddy и vaultwarden
-
 
 Теперь открываем в браузере домен который вы указали ранее и выполняем регистрацию новой учетной записи. В клиентах битводен для ваших ОС указываем его как URL для self-hosted системы.
 
