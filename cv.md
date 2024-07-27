@@ -4,7 +4,7 @@ title: Максим Татаринов
 permalink: /cv/
 ---
 
-![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/CV/avatar.png)
+![](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/CV/avatar.webp)
 
 ### Имя 
 Максим Татаринов
