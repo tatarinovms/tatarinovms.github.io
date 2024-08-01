@@ -1,0 +1,13 @@
+[Unit]
+Description=TonUtils Reverse Proxy Service
+After=network.target
+
+[Service]
+Type=simple
+User=username
+WorkingDirectory=/путь_к_вашей_папке_tonutils
+ExecStart=/путь_к_вашей_папке_tonutils/tonutils-reverse-proxy-linux-amd64 --domain yourdomain.ton
+Restart=always
+
+[Install]
+WantedBy=multi-user.target

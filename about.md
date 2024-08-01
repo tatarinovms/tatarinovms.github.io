@@ -32,7 +32,7 @@ permalink: /about/
 - [Github](https://github.com/tatarinovms)
 - [GitVerse](https://gitverse.ru/tatarinovms)
 - [VK](https://vk.com/tatarinovms)
-- [Канал в Dzen](https://dzen.ru/beaverclan)
+- [Канал в Dzen](https://dzen.ru/blogbeaverclan)
 - [Linkedin](https://www.linkedin.com/in/tatarinovms/)
 - [Ok.ru](https://ok.ru/tatarinovms)
 - [Reddit](https://www.reddit.com/user/tatarinovms)
