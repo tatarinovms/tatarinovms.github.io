@@ -29,7 +29,7 @@ permalink: /about/
 
 Есть 🐈🐶
 
-### Прочие места где мне можно написать или меня найти
+### Актиновсти
 
 #### Телеграм каналы
 
@@ -39,7 +39,7 @@ permalink: /about/
 
 #### Сервисы
 
-- [Зеркало](https://t.me/GOD_Y_beaver_mirror_bot?start=2533848)
+- [Зеркало ГБ](https://t.me/GOD_Y_beaver_mirror_bot?start=2533848)
 - [beaverpostemoji](https://t.me/addemoji/beaverpostemoji)
 - [beaverpostemoji_2](https://t.me/addemoji/beaverpostemoji_2)
 - [beaverpostemojiStore](https://t.me/addemoji/beaverpostemojiStore)
