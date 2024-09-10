@@ -48,7 +48,7 @@ permalink: /about/
 
 #### Блоги
 
-- [blog.tatarinovms.space](https://blog.tatarinovms.space/)
+- [blog.tatarinov.space](https://blog.tatarinov.space/)
 - [Дзен](https://dzen.ru/blogbeaverclan)
 - [Blog в teletype](https://teletype.in/@tatarinovm.s)
 
