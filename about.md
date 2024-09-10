@@ -5,7 +5,7 @@ permalink: /about/
 ---
 ### Привет, я Максим.
 
-!- [](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/about/logo.webp)
+[](https://raw.githubusercontent.com/tatarinovms/tatarinovms.github.io/master/images/posts/about/logo.webp)
 
 #### Самые оперативные способы связи со мной:
 
